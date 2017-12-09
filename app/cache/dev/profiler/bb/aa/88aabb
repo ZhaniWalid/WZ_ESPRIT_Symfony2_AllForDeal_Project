@@ -1,0 +1,1250 @@
+a:8:{s:5:"token";s:6:"88aabb";s:6:"parent";N;s:8:"children";a:1:{i:0;s:6:"ad8930";}s:4:"data";a:14:{s:6:"config";C:62:"Symfony\Component\HttpKernel\DataCollector\ConfigDataCollector":2586:{a:16:{s:8:"app_name";N;s:11:"app_version";N;s:5:"token";s:6:"88aabb";s:15:"symfony_version";s:6:"2.6.13";s:4:"name";s:3:"app";s:3:"env";s:3:"dev";s:5:"debug";b:1;s:11:"php_version";s:6:"5.5.12";s:14:"xdebug_enabled";b:1;s:14:"eaccel_enabled";b:0;s:11:"apc_enabled";b:0;s:14:"xcache_enabled";b:0;s:16:"wincache_enabled";b:0;s:20:"zend_opcache_enabled";b:0;s:7:"bundles";a:17:{s:15:"FrameworkBundle";s:112:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle";s:14:"SecurityBundle";s:111:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\SecurityBundle";s:10:"TwigBundle";s:107:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\TwigBundle";s:13:"MonologBundle";s:84:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\monolog-bundle";s:17:"SwiftmailerBundle";s:88:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\swiftmailer-bundle";s:13:"AsseticBundle";s:84:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\assetic-bundle";s:14:"DoctrineBundle";s:86:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\doctrine\doctrine-bundle";s:26:"SensioFrameworkExtraBundle";s:91:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\sensio\framework-extra-bundle";s:9:"AppBundle";s:68:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\src\AppBundle";s:21:"PidevAllForDealBundle";s:81:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\src\Pidev\AllForDealBundle";s:18:"KnpPaginatorBundle";s:90:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\knplabs\knp-paginator-bundle";s:19:"UsnNewsletterBundle";s:83:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\usn\newsletter-bundle";s:11:"DebugBundle";s:108:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\DebugBundle";s:14:"AcmeDemoBundle";s:74:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\src\Acme\DemoBundle";s:17:"WebProfilerBundle";s:114:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\WebProfilerBundle";s:24:"SensioDistributionBundle";s:121:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\sensio\distribution-bundle\Sensio\Bundle\DistributionBundle";s:21:"SensioGeneratorBundle";s:115:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\sensio\generator-bundle\Sensio\Bundle\GeneratorBundle";}s:9:"sapi_name";s:14:"apache2handler";}}s:7:"request";C:63:"Symfony\Component\HttpKernel\DataCollector\RequestDataCollector":5531:{a:18:{s:6:"format";s:4:"html";s:7:"content";s:0:"";s:12:"content_type";s:24:"text/html; charset=UTF-8";s:11:"status_text";s:21:"Internal Server Error";s:11:"status_code";i:500;s:13:"request_query";a:0:{}s:15:"request_request";a:0:{}s:15:"request_headers";a:11:{s:4:"host";a:1:{i:0;s:9:"localhost";}s:10:"connection";a:1:{i:0;s:10:"keep-alive";}s:13:"cache-control";a:1:{i:0;s:9:"max-age=0";}s:6:"accept";a:1:{i:0;s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";}s:25:"upgrade-insecure-requests";a:1:{i:0;s:1:"1";}s:10:"user-agent";a:1:{i:0;s:109:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36";}s:7:"referer";a:1:{i:0;s:81:"http://localhost/Esprit_3A5_ProjetPiDev/AllForDeal_Symfony2/web/app_dev.php/Login";}s:15:"accept-encoding";a:1:{i:0;s:13:"gzip, deflate";}s:15:"accept-language";a:1:{i:0;s:35:"fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4";}s:6:"cookie";a:1:{i:0;s:36:"PHPSESSID=r4e7b21c1gu21g0bo09u170b64";}s:14:"x-php-ob-level";a:1:{i:0;i:1;}}s:14:"request_server";a:39:{s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:11:"HTTP_ACCEPT";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:109:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36";s:12:"HTTP_REFERER";s:81:"http://localhost/Esprit_3A5_ProjetPiDev/AllForDeal_Symfony2/web/app_dev.php/Login";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4";s:11:"HTTP_COOKIE";s:36:"PHPSESSID=r4e7b21c1gu21g0bo09u170b64";s:4:"PATH";s:1045:"C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files\Java\jdk1.8.0_60\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\ATI Stream\bin\x86_64;C:\Program Files (x86)\ATI Stream\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\wamp\bin\php\php5.5.12;C:\Program Files (x86)\nodejs\;C:\Program Files\MySQL\MySQL Server 5.6\bin;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 & MySQL Utilities 1.5.4 1.5\Doctrine extensions for PHP\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;";s:10:"SystemRoot";s:10:"C:\Windows";s:7:"COMSPEC";s:27:"C:\Windows\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\Windows";s:16:"SERVER_SIGNATURE";s:79:"<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:31:"Apache/2.4.9 (Win64) PHP/5.5.12";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:12:"C:/wamp/www/";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:12:"C:/wamp/www/";s:12:"SERVER_ADMIN";s:17:"admin@example.com";s:15:"SCRIPT_FILENAME";s:70:"C:/wamp/www/Esprit_3A5_ProjetPiDev/AllForDeal_Symfony2/web/app_dev.php";s:11:"REMOTE_PORT";s:5:"58413";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:92:"/Esprit_3A5_ProjetPiDev/AllForDeal_Symfony2/web/app_dev.php/CompteUser/KAAAAAaa12,KAAAAAaa12";s:11:"SCRIPT_NAME";s:59:"/Esprit_3A5_ProjetPiDev/AllForDeal_Symfony2/web/app_dev.php";s:9:"PATH_INFO";s:33:"/CompteUser/KAAAAAaa12,KAAAAAaa12";s:15:"PATH_TRANSLATED";s:44:"C:\wamp\www\CompteUser\KAAAAAaa12,KAAAAAaa12";s:8:"PHP_SELF";s:92:"/Esprit_3A5_ProjetPiDev/AllForDeal_Symfony2/web/app_dev.php/CompteUser/KAAAAAaa12,KAAAAAaa12";s:18:"REQUEST_TIME_FLOAT";d:1460985203.46;s:12:"REQUEST_TIME";i:1460985203;}s:15:"request_cookies";a:1:{s:9:"PHPSESSID";s:26:"r4e7b21c1gu21g0bo09u170b64";}s:18:"request_attributes";a:5:{s:11:"_controller";s:75:"Pidev\AllForDealBundle\Controller\LoginUserController::VersCompteUserAction";s:5:"login";s:10:"KAAAAAaa12";s:3:"pwd";s:10:"KAAAAAaa12";s:6:"_route";s:34:"pidev_all_for_deal_AccesCompteUser";s:13:"_route_params";a:2:{s:5:"login";s:10:"KAAAAAaa12";s:3:"pwd";s:10:"KAAAAAaa12";}}s:16:"response_headers";a:5:{s:13:"cache-control";a:1:{i:0;s:8:"no-cache";}s:4:"date";a:1:{i:0;s:29:"Mon, 18 Apr 2016 13:13:30 GMT";}s:13:"x-debug-token";a:1:{i:0;s:6:"88aabb";}s:18:"x-debug-token-link";a:1:{i:0;s:76:"/Esprit_3A5_ProjetPiDev/AllForDeal_Symfony2/web/app_dev.php/_profiler/ad8930";}s:12:"content-type";a:1:{i:0;s:24:"text/html; charset=UTF-8";}}s:16:"session_metadata";a:0:{}s:18:"session_attributes";a:0:{}s:7:"flashes";a:0:{}s:9:"path_info";s:33:"/CompteUser/KAAAAAaa12,KAAAAAaa12";s:10:"controller";a:4:{s:5:"class";s:53:"Pidev\AllForDealBundle\Controller\LoginUserController";s:6:"method";s:20:"VersCompteUserAction";s:4:"file";s:116:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\src\Pidev\AllForDealBundle\Controller\LoginUserController.php";s:4:"line";i:140;}s:6:"locale";s:2:"fr";}}s:4:"ajax";C:62:"Symfony\Bundle\FrameworkBundle\DataCollector\AjaxDataCollector":6:{a:0:{}}s:9:"exception";C:65:"Symfony\Component\HttpKernel\DataCollector\ExceptionDataCollector":83732:{a:1:{s:9:"exception";O:50:"Symfony\Component\Debug\Exception\FlattenException":10:{s:59:" Symfony\Component\Debug\Exception\FlattenException message";s:110:"Unknown "base64_encode" filter in "PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig" at line 1083.";s:56:" Symfony\Component\Debug\Exception\FlattenException code";i:0;s:60:" Symfony\Component\Debug\Exception\FlattenException previous";N;s:57:" Symfony\Component\Debug\Exception\FlattenException trace";a:29:{i:0;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:0:"";s:5:"class";s:0:"";s:4:"type";s:0:"";s:8:"function";s:0:"";s:4:"file";s:101:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\ExpressionParser.php";s:4:"line";i:604;s:4:"args";a:0:{}}i:1;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:21:"Twig_ExpressionParser";s:5:"class";s:21:"Twig_ExpressionParser";s:4:"type";s:2:"->";s:8:"function";s:18:"getFilterNodeClass";s:4:"file";s:101:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\ExpressionParser.php";s:4:"line";i:458;s:4:"args";a:2:{i:0;a:2:{i:0;s:6:"string";i:1;s:13:"base64_encode";}i:1;a:2:{i:0;s:6:"string";i:1;s:4:"1083";}}}i:2;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:21:"Twig_ExpressionParser";s:5:"class";s:21:"Twig_ExpressionParser";s:4:"type";s:2:"->";s:8:"function";s:24:"parseFilterExpressionRaw";s:4:"file";s:101:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\ExpressionParser.php";s:4:"line";i:443;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:28:"Twig_Node_Expression_GetAttr";}}}i:3;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:21:"Twig_ExpressionParser";s:5:"class";s:21:"Twig_ExpressionParser";s:4:"type";s:2:"->";s:8:"function";s:21:"parseFilterExpression";s:4:"file";s:101:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\ExpressionParser.php";s:4:"line";i:302;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:28:"Twig_Node_Expression_GetAttr";}}}i:4;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:21:"Twig_ExpressionParser";s:5:"class";s:21:"Twig_ExpressionParser";s:4:"type";s:2:"->";s:8:"function";s:22:"parsePostfixExpression";s:4:"file";s:101:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\ExpressionParser.php";s:4:"line";i:194;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:25:"Twig_Node_Expression_Name";}}}i:5;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:21:"Twig_ExpressionParser";s:5:"class";s:21:"Twig_ExpressionParser";s:4:"type";s:2:"->";s:8:"function";s:22:"parsePrimaryExpression";s:4:"file";s:101:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\ExpressionParser.php";s:4:"line";i:84;s:4:"args";a:0:{}}i:6;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:21:"Twig_ExpressionParser";s:5:"class";s:21:"Twig_ExpressionParser";s:4:"type";s:2:"->";s:8:"function";s:10:"getPrimary";s:4:"file";s:101:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\ExpressionParser.php";s:4:"line";i:41;s:4:"args";a:0:{}}i:7;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:21:"Twig_ExpressionParser";s:5:"class";s:21:"Twig_ExpressionParser";s:4:"type";s:2:"->";s:8:"function";s:15:"parseExpression";s:4:"file";s:91:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\Parser.php";s:4:"line";i:144;s:4:"args";a:0:{}}i:8;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:11:"Twig_Parser";s:5:"class";s:11:"Twig_Parser";s:4:"type";s:2:"->";s:8:"function";s:8:"subparse";s:4:"file";s:100:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\TokenParser\For.php";s:4:"line";i:40;s:4:"args";a:1:{i:0;a:2:{i:0;s:5:"array";i:1;a:2:{i:0;a:2:{i:0;s:6:"object";i:1;s:20:"Twig_TokenParser_For";}i:1;a:2:{i:0;s:6:"string";i:1;s:13:"decideForFork";}}}}}i:9;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:20:"Twig_TokenParser_For";s:5:"class";s:20:"Twig_TokenParser_For";s:4:"type";s:2:"->";s:8:"function";s:5:"parse";s:4:"file";s:91:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\Parser.php";s:4:"line";i:187;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:10:"Twig_Token";}}}i:10;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:11:"Twig_Parser";s:5:"class";s:11:"Twig_Parser";s:4:"type";s:2:"->";s:8:"function";s:8:"subparse";s:4:"file";s:102:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\TokenParser\Block.php";s:4:"line";i:38;s:4:"args";a:2:{i:0;a:2:{i:0;s:5:"array";i:1;a:2:{i:0;a:2:{i:0;s:6:"object";i:1;s:22:"Twig_TokenParser_Block";}i:1;a:2:{i:0;s:6:"string";i:1;s:14:"decideBlockEnd";}}}i:1;a:2:{i:0;s:7:"boolean";i:1;b:1;}}}i:11;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:22:"Twig_TokenParser_Block";s:5:"class";s:22:"Twig_TokenParser_Block";s:4:"type";s:2:"->";s:8:"function";s:5:"parse";s:4:"file";s:91:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\Parser.php";s:4:"line";i:187;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:10:"Twig_Token";}}}i:12;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:11:"Twig_Parser";s:5:"class";s:11:"Twig_Parser";s:4:"type";s:2:"->";s:8:"function";s:8:"subparse";s:4:"file";s:91:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\Parser.php";s:4:"line";i:100;s:4:"args";a:2:{i:0;a:2:{i:0;s:4:"null";i:1;N;}i:1;a:2:{i:0;s:7:"boolean";i:1;b:0;}}}i:13;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:11:"Twig_Parser";s:5:"class";s:11:"Twig_Parser";s:4:"type";s:2:"->";s:8:"function";s:5:"parse";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:6138;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:16:"Twig_TokenStream";}}}i:14;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:16:"Twig_Environment";s:5:"class";s:16:"Twig_Environment";s:4:"type";s:2:"->";s:8:"function";s:5:"parse";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:6158;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:16:"Twig_TokenStream";}}}i:15;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:16:"Twig_Environment";s:5:"class";s:16:"Twig_Environment";s:4:"type";s:2:"->";s:8:"function";s:13:"compileSource";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:6032;s:4:"args";a:2:{i:0;a:2:{i:0;s:6:"string";i:1;s:69519:"<!DOCTYPE html>
+<html>
+<head>                
+<title>Community a Corporate Multipurpose Flat Bootstrap responsive Website Template | Home :: w3layouts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Community Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href="{{asset('css/bootstrap-3.1.1.min.css')}}" rel='stylesheet' type='text/css' />
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="{{asset('js/jquery.min.js')}}"></script>
+<script src="{{asset('js/jquery-2.1.4.min.js')}}"></script>
+<script src="{{asset('js/bootstrap.min.js')}}"></script>
+<!-- Custom Theme files -->
+<link href="{{asset('css/style.css')}}" rel='stylesheet' type='text/css' />
+<!--webfont-->
+<link href='{{asset('//fonts.googleapis.com/css?family=Oswald:300,400,700')}}' rel='stylesheet' type='text/css'>
+<link href='{{asset('//fonts.googleapis.com/css?family=PT+Sans:400,700')}}' rel='stylesheet' type='text/css'>
+<link href='{{asset('//fonts.googleapis.com/css?family=Fugaz+One')}}' rel='stylesheet' type='text/css'>
+<!-- Owl Stylesheets -->
+<script type="text/javascript" src="{{asset('js/move-top.js')}}"></script>
+<script type="text/javascript" src="{{asset('js/easing.js')}}"></script>
+<!----font-Awesome----->
+<link href="{{asset('css/font-awesome.css')}}" rel="stylesheet"> 
+<!----font-Awesome----->
+<!--light-box-files -->
+<script src="{{asset('js/jquery.chocolat.js')}}"></script>
+<link rel="stylesheet" href="{{asset('css/chocolat.css')}}" type="text/css" media="screen" charset="utf-8" />
+<!-- css of the background video !-->
+<link rel="stylesheet" href="{{asset('css/backgroundVideo.css')}}" type="text/css"/> 
+<!-- end of css of the background video !-->
+<!--light-box-files -->
+<!----drop down----->
+{% block javascripts %}
+<script>
+$(document).ready(function(){
+    $(".dropdown").hover(            
+        function() {
+            $('.dropdown-menu', this).stop( true, true ).slideDown("fast");
+            $(this).toggleClass('open');        
+        },
+        function() {
+            $('.dropdown-menu', this).stop( true, true ).slideUp("fast");
+            $(this).toggleClass('open');       
+        }
+    );
+});
+</script>
+
+<script type="text/javascript" charset="utf-8">
+$(function() {
+	$('.gallery a').Chocolat();
+});
+</script>
+
+<!-- Script Verification des Champs !-->
+<script type="text/javascript">
+       
+       // fonction de verification pour  CIN
+       
+        function verif_cin()
+        {
+           
+            var x,x_cin;
+            x=document.getElementById("cin").value;
+          
+                x_cin=x.toString();
+            
+           
+            if(x_cin.length===8)
+            {
+                //document.getElementById('p_cin').innerHTML="longeur CIN valide";
+               document.getElementById('img_cin').innerHTML='<i class="fa fa-check-circle"></i>';
+                //alert('longeur CIN valide');
+            }
+            else if (x_cin.length!==8)
+            {
+                //document.getElementById('p_cin').innerHTML="longeur CIN invalide";
+                document.getElementById('img_cin').innerHTML='<i class="fa fa-exclamation-circle"></i>';
+               // alert('longeur CIN invalide');
+            }
+          
+        }
+        
+        // fonction de verification pour les champs de texte
+        
+        function verif_text()
+        {
+            var v_nom,v_prenom,v_grade,v_addresse,v_login;
+            
+            v_nom=document.getElementById("nom").value;
+            v_prenom=document.getElementById("prenom").value;
+            v_grade=document.getElementById("grade").value;
+            v_addresse=document.getElementById("addresse").value;
+            v_login=document.getElementById("loginEmp").value;
+            
+            /// verification Nom
+            if(v_nom==='')
+            {
+               // document.getElementById('img_nom').innerHTML='<i class="fa fa-exclamation-circle"></i>';
+                document.getElementById('nom').style("background-color=red");
+            }
+            else if(v_nom!=='')
+            {
+               // document.getElementById('img_nom').innerHTML='<i class="fa fa-check-circle"></i>';
+                document.getElementById('nom').style("background-color=green");
+            }
+            
+            // verification prenom
+            
+              if(v_prenom==='')
+            {
+                document.getElementById('img_prenom').innerHTML='<i class="fa fa-exclamation-circle"></i>';
+            }
+            else if(v_prenom!=='')
+            {
+                document.getElementById('img_prenom').innerHTML='<i class="fa fa-check-circle"></i>';
+            }
+            
+            // verification grade
+            
+              if(v_grade==='')
+            {
+                document.getElementById('img_grade').innerHTML='<i class="fa fa-exclamation-circle"></i>';
+            }
+            else if(v_grade!=='')
+            {
+                document.getElementById('img_grade').innerHTML='<i class="fa fa-check-circle"></i>';
+            }
+            
+            // verification addresse
+            
+              if(v_addresse==='')
+            {
+                document.getElementById('img_addresse').innerHTML='<i class="fa fa-exclamation-circle"></i>';
+            }
+            else if(v_addresse!=='')
+            {
+                document.getElementById('img_addresse').innerHTML='<i class="fa fa-check-circle"></i>';
+            }
+            
+            // verification login employe
+            
+            if(v_login==='')
+            {
+                document.getElementById('img_login').innerHTML='<i class="fa fa-exclamation-circle"></i>';
+            }
+            else if(v_login!=='')
+            {
+                document.getElementById('img_login').innerHTML='<i class="fa fa-check-circle"></i>';
+            }
+        }
+        
+        // fonction de verification pour le numero de telephone
+        
+        function verif_tel()
+        {
+              var x,x_tel;
+            x=document.getElementById("num_tel").value;
+          
+                x_tel=x.toString();
+            
+           
+            if(x_tel.length===8)
+            {
+                //document.getElementById('p_cin').innerHTML="longeur CIN valide";
+               document.getElementById('img_num_tel').innerHTML='<i class="fa fa-check-circle"></i>';
+                //alert('longeur CIN valide');
+            }
+            else if (x_tel.length!==8)
+            {
+                //document.getElementById('p_cin').innerHTML="longeur CIN invalide";
+                document.getElementById('img_num_tel').innerHTML='<i class="fa fa-exclamation-circle"></i>';
+               // alert('longeur CIN invalide');
+            }
+        }
+        
+         // fonction pour la verification du mot de passe
+         
+         function verif_pwd()
+         {
+             var pwd=document.getElementById("pwdEmp").value;
+             x_pwd=pwd.toString();
+
+             
+             if(x_pwd.length>7 && x_pwd.length<20)
+             {
+                  document.getElementById('img_pwd').innerHTML='<i class="fa fa-check-circle"></i>';
+             }
+             else
+             {
+                  document.getElementById('img_pwd').innerHTML='<i class="fa fa-exclamation-circle"></i>';
+             }
+         }
+         
+        function validation(){
+            
+            var v_nom,v_prenom,v_add,v_email,v_tel,v_login,v_pwd;
+            
+            v_nom=document.getElementById("nom").value;
+            v_prenom=document.getElementById("prenom").value;
+            v_add=document.getElementById("addresse").value;
+            v_email=document.getElementById("email").value;
+            v_tel=document.getElementById("tel").value;
+            v_login=document.getElementById("login").value;
+            v_pwd=document.getElementById("pwd").value;
+            
+            if (v_nom==='' || v_prenom==='' || v_add===''|| v_email==='' || v_tel==='' || v_login==='' || v_pwd===''){
+              alert("Inscription échoué , veillez renseigner les champs vides");  
+            }else{
+              alert("Inscription a été éffectué avec succés Monsieur/Madame : "+v_nom+" , "+v_prenom+" , Bienvenu chez All For Deal");
+            }
+            
+         }
+         
+        function validationlogin(){
+          
+          
+      /*     <?php
+             $usrLog;
+             $usrPwd;
+             
+             $servername="localhost";
+             $dbname="allfordeal_symfony";
+             $username="root";
+             $password="";
+             
+             $conn = new mysqli($servername, $username, $password, $dbname);
+           // Check connection
+           if ($conn->connect_error) {
+              die("Connection failed: " . $conn->connect_error);
+           } 
+
+	     var $sql="select * from utilisateur where login_user=".$usrLog."and pwd_user=".$usrPwd;
+	     ?>*/
+                     
+           var v_l,v_p;
+           
+            v_l=document.getElementById("usr").value;
+            v_p=document.getElementById("pass").value;
+            if (v_l==='' || v_p===''){
+              alert("Connexion échoué , veillez renseigner les champs vides");  
+            }else{
+              alert("Connection a été éffectué avec succés Monsieur/Madame : "+v_l+" , Bienvenu chez All For Deal");
+           }
+            
+      }
+      
+    
+       function AuRevoir(){
+           alert("Au Revoir,Merci d'etre un client fidèle du All For Deal,Nous Vous Souhaite le Retour");
+       }
+         
+        
+</script>
+<!-- Verification des champs du saisie avec jquery !-->
+<script>
+$(function(){
+    
+    // vérification lors de l'inscription
+    
+    // vérification nom
+    
+     $("#nom").keyup(function() {
+         
+         $("#nom").next(".error").hide().text("");
+          
+         if(!$("#nom").val().match(/^[a-zA-Z]|\s+$/i)){
+            if(arguments.length) {
+            $("#nom").next(".error").show().text("Veuillez entrer un nom valide").css("color","red");       
+            $("#nom").css("background-color","#FF0066"); //#FF0066    99CC00
+            }
+         }else{
+            $("#nom").next(".error").hide().text("");
+            $("#nom").css("background-color","#99CC00");
+            }
+          
+         });
+       
+      // vérification prénom
+      
+        $("#prenom").keyup(function() {
+         
+         $("#prenom").next(".error").hide().text("");
+          
+         if(!$("#prenom").val().match(/^[a-zA-Z]|\s+$/i)){
+            if(arguments.length) {
+            $("#prenom").next(".error").show().text("Veuillez entrer un prénom valide").css("color","red");       
+            $("#prenom").css("background-color","#FF0066"); //#FF0066    99CC00
+            }
+         }else{
+            $("#prenom").next(".error").hide().text("");
+            $("#prenom").css("background-color","#99CC00");
+            }
+          
+         });
+         
+         // vérification addresse
+         
+        $("#addresse").keyup(function() {
+         
+         $("#addresse").next(".error").hide().text("");
+          
+         if(!$("#addresse").val().match(/^[a-zA-Z0-9]|\s+$/i)){
+            if(arguments.length) {
+            $("#addresse").next(".error").show().text("Veuillez entrer une addresse valide").css("color","red");       
+            $("#addresse").css("background-color","#FF0066"); //#FF0066    99CC00
+            }
+         }else{
+            $("#addresse").next(".error").hide().text("");
+            $("#addresse").css("background-color","#99CC00");
+            }
+          
+         });     
+        
+        // vérification email
+        
+       $("#email").keyup(function() {
+         
+         $("#email").next(".error").hide().text("");
+          
+         if(!$("#email").val().match(/^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+.[a-zA-Z]{2,4}$/)){
+            if(arguments.length) {
+            $("#email").next(".error").show().text("Veuillez entrer une addresse email valide").css("color","red");       
+            $("#email").css("background-color","#FF0066"); //#FF0066    99CC00
+            }
+         }else{
+            $("#email").next(".error").hide().text("");
+            $("#email").css("background-color","#99CC00");
+            }
+          
+         });  
+         
+         
+         // vérification numéro téléphone
+         
+         $("#tel").keyup(function() {
+         
+        // var x,x_tel;
+        // x=document.getElementById("tel").value;
+         //x_tel=integer.parseInt(x);
+         
+         $("#tel").next(".error").hide().text("");
+          
+          // {13,13} : exactement 13 caractères
+         if(!$("#tel").val().match(/^[0-9-()+]{13,13}$/)){
+            if(arguments.length) {
+            $("#tel").next(".error").show().text("Veuillez entrer un numéro du téléphone valide : 13 chiffres exactement").css("color","red");       
+            $("#tel").css("background-color","#FF0066"); //#FF0066    99CC00
+            }
+         }else{
+            $("#tel").next(".error").hide().text("");
+            $("#tel").css("background-color","#99CC00");
+            }
+          
+         });  
+          
+         // vérification Login
+         
+         $("#login").keyup(function() {
+         
+         $("#login").next(".error").hide().text("");
+         
+        // {3,16} : min 5 , max 16 -> caractères
+         if(!$("#login").val().match(/^[a-zA-Z0-9_-]{5,16}$/)){
+            if(arguments.length) {
+            $("#login").next(".error").show().text("Veuillez entrer un login valide : minimum 5 & maximum 16 caractères").css("color","red");       
+            $("#login").css("background-color","#FF0066"); //#FF0066    99CC00
+            }
+         }else{
+            $("#login").next(".error").hide().text("");
+            $("#login").css("background-color","#99CC00");
+            }
+          
+         }); 
+         
+         // vérification Password
+         
+                  
+         $("#pwd").keyup(function() {
+         
+         $("#pwd").next(".error").hide().text("");
+         
+        // {3,16} : min 8 , max 15 -> caractères
+         if(!$("#pwd").val().match(/^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])([a-zA-Z0-9]{8,15})$/)){
+            if(arguments.length) {
+            $("#pwd").next(".error").show().text("Veuillez entrer un password valide : minimum 8 & maximum 15 caractères ; with at least one upper case letter, one lower case letter, and one digit").css("color","red");       
+            $("#pwd").css("background-color","#FF0066"); //#FF0066    99CC00
+            }
+         }else{
+            $("#pwd").next(".error").hide().text("");
+            $("#pwd").css("background-color","#99CC00");
+            }
+          
+         }); 
+         
+       /// vérification lors de la connexion
+       
+        // vérification Login
+         
+         $("#usr").keyup(function() {
+         
+         $("#usr").next(".error").hide().text("");
+         
+        // {3,16} : min 5 , max 16 -> caractères
+         if(!$("#usr").val().match(/^[a-zA-Z0-9_-]{2,16}$/)){
+            if(arguments.length) {
+            $("#usr").next(".error").show().text("Veuillez entrer un login valide").css("color","red");       
+            $("#usr").css("background-color","#FF0066"); //#FF0066    99CC00
+            }
+         }else{
+            $("#usr").next(".error").hide().text("");
+            $("#usr").css("background-color","#99CC00");
+            }
+          
+         }); 
+         
+         // vérification Password
+         
+                  
+        $("#pass").keyup(function() {
+         
+         $("#pass").next(".error").hide().text("");
+         
+        // {3,16} : min 8 , max 15 -> caractères
+         if(!$("#pass").val().match(/^[a-zA-Z0-9_-]{2,16}$/)){
+            if(arguments.length) {
+            $("#pass").next(".error").show().text("Veuillez entrer un password valide").css("color","red");       
+            $("#pass").css("background-color","#FF0066"); //#FF0066    99CC00
+            }
+         }else{
+            $("#pass").next(".error").hide().text("");
+            $("#pass").css("background-color","#99CC00");
+            }
+          
+         });
+         
+        
+   }); 
+   
+ 
+   
+</script>
+
+{% endblock %} 
+    </head>
+    <body>
+         
+        {% block content %} 
+        <div class="header">
+		<div class="container">
+			<div class="col-sm-3 logo">
+                            <h1><a href="{{ path("pidev_all_for_deal_home") }}"><span class="highlight">A</span>ll<span class="highlight">F</span>or<span class="highlight">D</span>eal</a></h1>
+			</div>
+		    <div class="col-sm-9 logo_right">
+		       <div class="social">
+				  <a href="https://www.facebook.com" class="link facebook" target="_parent"><span class="fa fa-facebook"></span></a>
+				  <a href="https://twitter.com/?lang=en" class="link twitter" target="_parent"><span class="fa fa-twitter"></span></a>
+				  <a href="https://www.google.tn/" class="link google" target="_parent"><span class="fa fa-google-plus"></span></a>
+				  <a href="https://www.linkedin.com/nhome/" class="link google" target="_parent"><span class="fa fa-linkedin"></span></a>
+				  <a href="https://www.google.tn/" class="link google" target="_parent"><span class="fa fa-tumblr"></span></a>    
+                    </div>
+			<!-- script for menu -->
+			<span class="menu"></span>
+			<div class="top-menu">
+				<ul>
+					<li><a href="#" class="btn btn-default btn-default_2 pull-left" data-toggle="modal" data-target="#applyModal">Login</a></li>
+					<li><a href="{{ path("pidev_all_for_deal_home") }}" class="btn btn-default btn-default_2 pull-right" data-toggle="modal" onclick="AuRevoir()">Logout</a></li> 
+                                        <li><a href="{#{path("pidev_all_for_deal_InscriptionUser")}#}" class="btn btn-default btn-default_2 pull-left" data-toggle="modal" data-target="#applyModal_1">Register</a></li>
+					<li><a href="#" class="btn btn-default btn-default_2 pull-left uls-trigger" data-toggle="modal" data-target="#applyModal_2">Select Language</a></li>
+				</ul>
+			</div>
+			<div class="clearfix"> </div>
+			<!-- Modal -->
+                           <!-- Start Login !-->
+                           {% block Login %}
+				<div class="modal fade" id="applyModal" tabindex="-1" role="dialog" aria-labelledby="applyModalLabel" aria-hidden="true">
+				  	<div class="modal-dialog modal-dialog_2">
+				    	<div class="modal-content">
+					      	<div class="modal-header">
+					        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+					        	<h4 class="modal-title" id="myModalLabel">
+					        		<div class="head_4">
+			                          <p>Login</p>
+			                        </div>
+			                    </h4>
+					      	</div>
+	                        <div class="modal-body">
+                                    
+                        <form class="register" method="post" action="{{ path("pidev_all_for_deal_LoginUser") }}">
+                               <div class="section">
+                                <label for="username" class="field prepend-icon">
+                                    <input type="text" name="username_id" id="usr" placeholder="Username">
+                                    <span class="error">  </span>
+                                    <label for="username_id" class="field-icon">
+                                        <i class="fa fa-user"></i>
+                                    </label>
+                                </label>
+                               </div>
+                               <div class="section"> 
+                                <label for="password" class="field prepend-icon">
+                                    <input type="password" name="password_id" id="pass" placeholder="Password">
+                                    <span class="error">  </span>
+                                    <label for="password_id" class="field-icon">
+                                        <i class="fa fa-lock"></i>
+                                    </label>
+                                </label>
+                             </div>
+                             <div class="section">
+                                <div class="submit"><input type="submit"  value="Login" name="submit"  onclick="validationlogin()"></div> <!-- onclick="myFunction()" !-->
+                             </div>
+                             <div class="section">
+                                   <div class="submit"><input type="reset" value="Reset" name="submit" class="btn btn-warning btn-lg btn-block" ></div>
+                             </div>
+                            <span class="error" name="errorLogin">  </span>
+                             <ul class="new">
+								<li class="new_left"><p><a href="#">Forgot Password ?</a></p></li>
+								<li class="new_right"><p class="sign">New here ?&nbsp;&nbsp;<a href="#" data-toggle="modal" data-target="#applyModal_1">Sign Up</a></p></li>
+								<div class="clearfix"></div>
+						     </ul>
+                           </form>
+                        </div>
+				    </div>
+				 </div>
+				</div>
+                           {% endblock %}
+                           <!-- End Login !-->
+                           
+				 <!-- Modal -->
+               <!-- Start Registration !-->     
+                                 {% block Register %}
+				<div class="modal fade" id="applyModal_1" tabindex="-1" role="dialog" aria-labelledby="applyModalLabel" aria-hidden="true">
+				  	<div class="modal-dialog dialog_3">
+				    	<div class="modal-content">
+					      	<div class="modal-header">
+					        	<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+					        	<h4 class="modal-title" id="myModalLabel"><div class="head_4">
+			                         <p>Register</p>
+			                        </div></h4>
+					      	</div>
+					<form name="row" method="post" class="register" action="{{ path("pidev_all_for_deal_InscriptionUser") }}">
+					      	      <!-- <div class="radio radio_1">
+									<input id="leader" type="radio" value="1">
+									<label for="leader">Leader</label>
+									<input id="company" type="radio" value="2">
+									<label for="company">Company</label>
+									<input id="trainer" type="radio" value="3">
+									<label for="trainer">Trainer</label>
+									<input id="software developer" type="radio" value="4">
+									<label for="software developer">Software Developer</label>
+									<input id="product supplier" type="radio" value="5">
+									<label for="product supplier">Product Supplier</label>
+									<input id="consultant" type="radio" value="6">
+									<label for="consultant">Consultant</label>
+									<input id="employee" type="radio" value="7">
+									<label for="employee">Employee</label>
+	                                             </div> !-->
+                                                    
+                                   <div class="section">
+                                   <label for="nom" class="field prepend-icon">
+                                       <input type="text" name="nom_id" id="nom" placeholder="Nom" required onkeyup="verif_text()">
+                                    <span class="error">  </span>
+                                    <label for="nom_id" class="field-icon">
+                                    <i class="fa fa-users"></i>
+                                    </label>  
+                                  </label>
+                                   <div id="img_nom"></div>
+                               </div>
+                                                    
+                                   <div class="section">
+                                  <label for="prnm" class="field prepend-icon">
+                                    <input type="text" name="prnm_id" id="prenom" placeholder="Prénom">
+                                    <span class="error">  </span>
+                                    <label for="prnm_id" class="field-icon">
+                                        <i class="fa fa-user"></i>
+                                    </label>
+                                  </label>
+                               </div>    
+                                                     
+                                  <div class="section">
+                                  <label for="address" class="field prepend-icon">
+                                    <input type="text" name="address_id" id="addresse" placeholder="Addresse">
+                                    <span class="error">  </span>
+                                    <label for="address_id" class="field-icon">
+                                        <i class="fa fa-home"></i>
+                                    </label>
+                                  </label>
+                               </div>      
+                                                      
+                                <div class="section">
+                                  <label for="username" class="field prepend-icon">
+                                    <input type="text" name="email_id" id="email" placeholder="Email">
+                                    <span class="error">  </span>
+                                    <label for="email_id" class="field-icon">
+                                        <i class="fa fa-envelope"></i>
+                                    </label>
+                                  </label>
+                               </div>                   
+                                     
+                                  <div class="section">
+                                  <label for="username" class="field prepend-icon">
+                                    <input type="text" name="mobile_number" id="tel" placeholder="Mobile Number">
+                                    <span class="error">  </span>
+                                    <label for="mobile_number" class="field-icon">
+                                        <i class="fa fa-phone"></i>
+                                    </label>
+                                  </label>
+                               </div>                  
+                                      
+                                    <div class="section">
+                                  <label for="name" class="field prepend-icon">
+                                     <select path="country" id="country" class="form-control input-sm" name="statut">
+                                        <option value="null">Selection Statut</option>
+                                        <option value="Particulier" name="Particulier">Particulier</option>
+                                        <option value="Entreprise"  name="Entreprise">Entreprise</option>
+                                     </select>
+                                     <label for="name" class="field-icon">
+                                        <i class="fa fa-user"></i>
+                                     </label>
+                                  </label>
+                               </div>
+                                                    
+	                      
+                                                    
+                                <div class="section">
+                                  <label for="username" class="field prepend-icon">
+                                    <input type="text" name="login_id" id="login" placeholder="Login">
+                                    <span class="error">  </span>
+                                    <label for="login_id" class="field-icon">
+                                        <i class="fa fa-lock"></i>
+                                    </label>
+                                  </label>
+                               </div>                          
+                                                      
+                               <div class="section">
+                                 <label for="password" class="field prepend-icon">
+                                    <input type="password" name="password" id="pwd" placeholder="Password">
+                                    <span class="error">  </span>
+                                    <label for="password" class="field-icon">
+                                        <i class="fa fa-lock"></i>
+                                    </label>
+                                 </label>
+                               </div>
+                               
+                               <div class="radio radio_1" id="sexe">
+                                  <h4>Choisir Votre Sexe SVP : </h4>  <br>
+				    <input id="homme" type="radio" value="Homme" name="choixSexe">
+					 <label for="homme" >Homme                                         
+                                            <i class="fa fa-male"></i>
+                                          </label>
+				    <input id="femme" type="radio" value="Femme" name="choixSexe">
+					 <label for="femme" >Femme
+                                            <i class="fa fa-female"></i>
+                                          </label>
+	                            </div>                     
+                                                    
+                             <!--  <div class="section">
+                                  <label for="name" class="field prepend-icon">
+                                    <select path="country" id="country" class="form-control input-sm">
+				                        <option value="">Select Country</option>
+                                                        <option value="">Tunisia</option>
+				                        <option value="">Japan</option>
+				                        <option value="">Kenya</option>
+				                        <option value="">Dubai</option>
+				                        <option value="">Italy</option>
+				                        <option value="">Greece</option> 
+				                        <option value="">Iceland</option> 
+				                        <option value="">China</option> 
+				                        <option value="">Doha</option> 
+				                        <option value="">Irland</option> 
+				                        <option value="">Srilanka</option> 
+				                        <option value="">Russia</option> 
+				                        <option value="">Hong Kong</option> 
+				                        <option value="">Germany</option>
+				                        <option value="">Canada</option>  
+				                        <option value="">Mexico</option> 
+				                        <option value="">Nepal</option>
+				                        <option value="">Norway</option> 
+				                        <option value="">Oman</option>
+				                        <option value="">Pakistan</option>  
+				                        <option value="">Kuwait</option> 
+				                        <option value="">Indonesia</option>  
+				                        <option value="">Spain</option>
+				                        <option value="">Thailand</option>  
+				                        <option value="">Saudi Arabia</option> 
+				                        <option value="">Poland</option> 
+				                    </select>
+                                    <label for="name" class="field-icon">
+                                        <i class="fa fa-user"></i>
+                                    </label>
+                                  </label>
+                               </div> 
+                              
+                               <div class="section">
+                                  <label for="name" class="field prepend-icon">
+                                      <select path="country" id="country" class="form-control input-sm">
+                                         <option value="">Select City</option>
+                                      </select>
+                                      <label for="name" class="field-icon">
+                                        <i class="fa fa-user"></i>
+                                      </label>
+                                  </label>
+                               </div> !-->
+                             
+                               <div class="section">
+                                   <div class="submit"><input type="submit" value="Register" name="submit" onclick="validation()" class="btn btn-info btn-lg btn-block"  >   <!--onclick="myFunction()"!-->
+                                                      
+                                   </div>
+                               </div>
+                                 <div class="section">
+                                   <div class="submit"><input type="reset" value="Reset" name="submit" class="btn btn-warning btn-lg btn-block" ></div>
+                               </div>
+                               <div class="checkbox check_1">
+					<input id="check1" type="checkbox" name="check" value="check1">
+					<label for="check1">I agree to the Terms of Service and Privacy Policy</label>
+				</div>
+                              
+						  </form>
+                                        {% endblock %}     
+                <!-- End Registration !-->    
+                     </div>
+		         </div>
+		     </div>
+			 <div class="modal fade" id="applyModal_2" tabindex="-1" role="dialog" aria-labelledby="applyModalLabel" aria-hidden="true">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+								&times;</button>
+							<h4 class="modal-title" id="myModalLabel">
+								Please Choose Your Location</h4>
+						</div>
+						<div class="modal-body">
+							 <form class="form-horizontal" role="form">
+								<div class="form-group">
+									<select id="basic2" class="show-tick form-control" multiple>
+										<optgroup label="Popular Cities">
+											<option selected style="display:none;color:#eee;">All India</option>
+											<option>Ahmedabad</option>
+											<option>Bangalore</option>
+											<option>Chandigarh</option>
+											<option>Chennai</option>
+											<option>Coimbatore</option>
+											<option>Delhi</option>
+											<option>Gurgaon</option>
+											<option>Hyderabad</option>
+											<option>Jaipur</option>
+											<option>Kochi</option>
+											<option>Kolkata</option>
+											<option>Lucknow</option>
+											<option>Mumbai</option>
+											<option>Noida</option>
+										</optgroup>
+											<optgroup label="More Cities">
+											<optgroup label="Andhra Pradesh">
+											<option>Anantapur</option>
+											<option>Chinnamandem</option>
+											<option>Gudur</option><option>Guntur</option><option>Jangareddy Gudem</option><option>Kakinada</option><option>Kurnool</option><option>Martur</option><option>Parvathipuram</option><option>Rajahmundry</option><option>Tenali</option><option>Tirupati</option><option>Vijayawada</option><option>Vizag</option><option>Vizianagaram</option></optgroup><optgroup label="Arunachal Pradesh"><option>Tawang</option><option>Ziro</option></optgroup><optgroup label="Assam"><option>Dibrugarh</option><option>Guwahati</option><option>Jorhat</option><option>Silchar</option><option>Tinsukia</option></optgroup><optgroup label="Bihar"><option>Hajipur</option><option>Patna</option></optgroup><optgroup label="Chhattisgarh"><option>Bhilai</option><option>Bilaspur</option><option>Champa</option><option>Dhamtari</option><option>Durg</option><option>Jagdalpur</option><option>Kawardha</option><option>Kondagaon</option><option>Korba</option><option>Raigarh</option><option>Raipur</option><option>Tilda Neora</option></optgroup><optgroup label="Croatia"><option>Dubrovnik</option></optgroup><optgroup label="Goa"><option>Goa</option></optgroup><optgroup label="Gujarat"><option>Adipur</option><option>Ahmedabad</option><option>Anand</option><option>Ankleshwar</option><option>Bharuch</option><option>Bhavnagar</option><option>Daman</option><option>Gandhidham</option><option>Gandhinagar</option><option>Himmatnagar</option><option>Idar</option><option>Jamnagar</option><option>Jetpur</option><option>Junagadh</option><option>Kutch</option><option>Nadiad</option><option>Navsari</option><option value="PALN">Palanpur</option><option value="PATA">Patan</option><option value="RAJK">Rajkot</option><option value="SANA">Sanand</option><option value="SILV">Silvassa</option><option value="SURT">Surat</option><option value="VAD">Vadodara</option><option value="VLSD">Valsad</option><option value="VAPI">Vapi</option></optgroup><optgroup label="Haryana"><option value="AMB">Ambala</option><option value="DHRA">Dharuhera</option><option value="FARI">Faridabad</option><option value="HISR">Hisar</option><option value="JHAJ">Jhajjar</option><option value="JIND">Jind</option><option value="KAIT">Kaithal</option><option value="KARN">Karnal</option><option value="KUND">Kundli</option><option value="KURU">Kurukshetra</option><option value="PNCH">Panchkula</option><option value="PAN">Panipat</option><option value="REWA">Rewari</option><option value="ROH">Rohtak</option><option value="SISA">Sirsa</option><option value="RAIH">Sonipat</option><option value="YAMU">Yamunanagar</option></optgroup><optgroup label="Himachal Pradesh"><option value="BADD">Baddi</option><option value="DMSL">Dharamsala</option><option value="HAMI">Hamirpur (HP)</option><option value="KANG">Kangra</option><option value="KULU">Kullu</option><option value="MANA">Manali</option><option value="SMLA">Shimla</option><option value="SCO">Solan</option></optgroup><optgroup label="Jammu and Kashmir"><option value="JAMM">Jammu</option><option value="KATH">Kathua</option><option value="KATR">Katra</option><option value="LEHA">Ladakh</option></optgroup><optgroup label="Jharkhand"><option value="BOKA">Bokaro</option><option value="DOGH">Deoghar</option><option value="DHAN">Dhanbad(Jharkhand)</option><option value="JMDP">Jamshedpur</option><option value="RANC">Ranchi</option></optgroup><optgroup label="Karnataka"><option value="BELG">Belgaum</option><option value="BANG">Bengaluru</option><option value="BIDR">Bidar</option><option value="COOR">Coorg</option><option value="DAVA">Davangere</option><option value="GULB">Gulbarga</option><option value="HUBL">Hubli</option><option value="KWAR">Karwar</option><option value="MLR">Mangalore</option><option value="MANI">Manipal</option><option value="MYS">Mysore</option><option value="TUMK">Tumkur</option><option value="UDUP">Udupi</option></optgroup><optgroup label="Kerala"><option value="99">Alappuzha</option><option value="ANHL">Anchal</option><option value="ANGA">Angamaly</option><option value="ERNK">Ernakulam</option><option value="KANN">Kannur</option><option value="KARG">Karunagapally</option><option value="KOCH">Kochi</option><option value="KOLM">Kollam</option><option value="KTYM">Kottayam</option><option value="MVLR">Mavellikara</option><option value="THAL">Thalayolaparambu</option><option value="THSR">Thrissur</option><option value="TRIV">Trivandrum</option></optgroup><optgroup label="Madhya Pradesh"><option value="BLGT">Balaghat</option><option value="BETU">Betul</option><option value="BHOP">Bhopal</option><option value="CHIN">Chhindwara</option><option value="DEWAS">Dewas</option><option value="GWAL">Gwalior</option><option value="HRDA">Harda</option><option value="IND">Indore</option><option value="JABL">Jabalpur</option><option value="KHDW">Khandwa</option><option value="NMCH">Neemuch</option><option value="RATL">Ratlam</option><option value="SAMP">Sagar</option><option value="SARN">Sarni</option><option value="SEHO">Sehore</option><option value="SEON">Seoni</option><option value="SHIV">Shivpuri</option><option value="UJJN">Ujjain</option></optgroup><optgroup label="Maharashtra"><option value="AHMED">Ahmednagar</option><option value="AKOL">Akola</option><option value="ALBG">Alibaug</option><option value="AMRA">Amravati</option><option value="AURA">Aurangabad</option><option value="BARA">Baramati</option><option value="BEED">Beed</option><option value="BHIW">Bhiwandi</option><option value="BOIS">Boisar</option><option value="BULD">Buldana</option><option value="CHAN">Chandrapur</option><option value="DHLE">Dhule</option><option value="DHUL">Dhulia</option><option value="INDA">Indapur</option><option value="JALG">Jalgaon</option><option value="KHED">Khed</option><option value="KHOP">Khopoli</option><option value="KOLH">Kolhapur</option><option value="LAT">Latur</option><option value="LAVA">Lavasa</option><option value="LNVL">Lonavala</option><option value="MHAD">Mahad</option><option value="MALE">Malegaon</option><option value="MUMBAI">Mumbai</option><option value="NAGP">Nagpur</option><option value="NAND">Nanded</option><option value="NASK">Nashik</option><option value="PALG">Palghar</option><option value="PANC">Panchgani</option><option value="PARB">Parbhani</option><option value="PEN">Pen</option><option value="PHAL">Phaltan</option><option value="PIMP">Pimpri</option><option value="PUNE">Pune</option><option value="RAI">Raigad</option><option value="SANG">Sangli</option><option value="SATA">Satara</option><option value="SOLA">Solapur</option><option value="TMB">Tembhode</option><option value="UDGR">Udgir</option><option value="WARD">Wardha</option></optgroup><optgroup label="Meghalaya"><option value="RNG">Rongjeng</option><option value="SHLG">Shillong</option></optgroup><optgroup label="Nagaland"><option value="DMPR">Dimapur</option></optgroup><optgroup label="NCR"><option value="NCR">National Capital Region (NCR)</option></optgroup><optgroup label="Orissa"><option value="BLSR">Balasore</option><option value="BHUB">Bhubaneshwar</option><option value="PURI">Puri</option><option value="SAMB">Sambalpur</option></optgroup><optgroup label="Punjab"><option value="ABOR">Abohar</option><option value="AHMG">Ahmedgarh</option><option value="AMRI">Amritsar</option><option value="BNGA">Banga</option><option value="BAR">Barnala</option><option value="BHAT">Bathinda</option><option value="CHD">Chandigarh</option><option value="HOSH">Hoshiarpur</option><option value="JALA">Jalandhar</option><option value="KHAN">Khanna</option><option value="KOTK">Kotkapura</option><option value="LUDH">Ludhiana</option><option value="MNSA">Mansa</option><option value="MOGA">Moga</option><option value="MOHL">Mohali</option><option value="NAVN">Nawanshahr</option><option value="PATH">Pathankot</option><option value="PATI">Patiala</option><option value="PATR">Patran</option><option value="RUPN">Rupnagar</option><option value="SANR">Sangrur</option><option value="ZIRK">Zirakpur</option></optgroup><optgroup label="Rajasthan"><option value="ABRD">Abu Road</option><option value="AJMER">Ajmer</option><option value="ALSR">Alsisar (Rajasthan)</option><option value="ALWR">Alwar</option><option value="BANS">Banswara</option><option value="BEAW">Beawar</option><option value="BHIL">Bhilwara</option><option value="BHWD">Bhiwadi</option><option value="BIK">Bikaner</option><option value="DAUS">Dausa</option><option value="JAIP">Jaipur</option><option value="JSMR">Jaisalmer</option><option value="JODH">Jodhpur</option><option value="KISH">Kishangarh</option><option value="KOTA">Kota</option><option value="NEEM">Neemrana</option><option value="SIKR">Sikar</option><option value="SRIG">Sri Ganganagar</option><option value="UDAI">Udaipur</option></optgroup><optgroup label="Singapore"><option value="SING">Singapore</option></optgroup><optgroup label="Tamil Nadu"><option value="ARIY">Ariyalur</option><option value="ARNI">Arni</option><option value="ARUP">Aruppukottai</option><option value="CHEN">Chennai</option><option value="COIM">Coimbatore</option><option value="CUDD">Cuddalore</option><option value="DHAR">Dharapuram</option><option value="DMPI">Dharmapuri</option><option value="DIND">Dindigul</option><option value="EROD">Erode</option><option value="KNPM">Kanchipuram</option><option value="KUMB">Kumbakonam</option><option value="MADU">Madurai</option><option value="MTPM">Mettuppalayam</option><option value="OOTY">Ooty</option><option value="POND">Pondicherry</option><option value="PUDH">Pudhukottai</option><option value="SALM">Salem</option><option value="SIV">Sivakasi</option><option value="TAJO">Tanjore</option><option value="TENK">Tenkasi</option><option value="TIRV">Tirunelveli</option><option value="TIRP">Tirupur</option><option value="TRIC">Trichy</option><option value="VELL">Vellore</option></optgroup><optgroup label="Telangana"><option value="ADIL">Adilabad</option><option value="AMAN">Amangal</option><option value="HYD">Hyderabad</option><option value="KARIM">Karimnagar</option><option value="KHAM">Khammam</option><option value="MRGD">Miryalaguda</option><option value="NIZA">Nizamabad</option><option value="PEDA">Peddapalli</option><option value="POCH">Pochampally</option><option value="SDDP">Siddipet</option><option value="SURY">Suryapet</option><option value="UPPA">Uppal</option><option value="WAR">Warangal</option></optgroup><optgroup label="Tripura "><option value="AGAR">Agartala</option></optgroup><optgroup label="Uttar Pradesh"><option value="AGRA">Agra</option><option value="ALI">Aligarh</option><option value="ALLH">Allahabad</option><option value="BARE">Bareilly</option><option value="BIJ">Bijnor</option><option value="GHAR">Ghazipur</option><option value="GRKP">Gorakhpur</option><option value="KANP">Kanpur</option><option value="LUCK">Lucknow</option><option value="MATH">Mathura</option><option value="MERT">Meerut</option><option value="MORA">Moradabad</option><option value="MUZ">Muzaffarnagar</option><option value="RENU">Renukoot</option><option value="SAHA">Saharanpur</option><option value="VAR">Varanasi</option></optgroup><optgroup label="Uttarakhand"><option value="DEH">Dehradun</option><option value="HRDR">Haridwar</option><option value="MSS">Mussoorie</option><option value="NAIN">Nainital</option><option value="RAMN">Ramnagar</option><option value="RKES">Rishikesh</option><option value="ROOR">Roorkee</option><option value="RUDP">Rudrapur</option></optgroup><optgroup label="West Bengal"><option value="ASANSOL">Asansol</option><option value="BEHA">Berhampore</option><option value="BLPR">Bolpur</option><option value="BURD">Burdwan</option><option value="COBE">Cooch Behar</option><option value="DARJ">Darjeeling</option><option value="DURGA">Durgapur</option><option value="HALD">Haldia</option><option value="HOOG">Hooghly</option><option value="HWRH">Howrah</option><option value="JPG">Jalpaiguri</option><option value="KOLK">Kolkata</option><option value="RANA">Ranaghat</option><option value="SILI">Siliguri</option></optgroup>
+										</optgroup>
+									</select>
+								</div>
+							  </form>    
+						</div>
+					</div>
+				  </div>
+				</div>
+			  <div class="clearfix"></div>
+		 </div>
+	   </div>
+</div>
+<nav class="navbar nav_bottom" role="navigation">
+ <div class="container">
+ <!-- Brand and toggle get grouped for better mobile display -->
+   <div class="navbar-header nav_2">
+      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">Menu
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"></a>
+   </div> 
+   <!-- Collect the nav links, forms, and other content for toggling -->
+     {% block tabs %}
+    <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+        <ul class="nav navbar-nav nav_1">
+            <li class="current_page"><a href="{{ path("pidev_all_for_deal_home") }}">Home</a></li>
+            <li><a href="about.html">About</a></li>
+    		<li><a href="classified.html">Classified Ads</a></li>
+			<li><a href="classified_database.html">Database</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">News<span class="caret"></span></a>
+              <ul class="dropdown-menu drop_menu" role="menu">
+                <li><a href="news.html">News</a></li>
+                <li><a href="shortcodes.html">Shortcodes</a></li>
+                <li><a href="faq.html">Faq</a></li>
+                <li><a href="career.html">Career</a></li>
+                <li><a href="terms.html">Terms of use</a></li>
+                <li><a href="sitemap.html">Sitemap</a></li>
+                <li><a href="testimonials.html">Testimonials</a></li>
+                <li><a href="grids.html">Grids</a></li>
+              </ul>
+            </li>
+            <li><a href="article.html">Articles</a></li>
+            <li><a href="forum.html">Forum</a></li>
+            <li><a href="videos.html">Video</a></li>
+            <li><a href="advertise.html">Advertising</a></li>        
+            <li><a href="{{ path("pidev_all_for_deal_UserContactUs") }}">Contact Us</a></li>
+             {#% for u in ThisUser %}
+       <input type="text" value="{{u.idUser}}" name="username_id" hidden>
+       <input type="text" value="{{u.loginUser}}" name="username_id" hidden>
+       <input type="text" value="{{u.pwdUser}}" name="password_id" hidden> 
+            <li><a href="{{ path("pidev_all_for_deal_AccesCompteUser",{'login':u.loginUser,'pwd':u.pwdUser}) }}">Mon Compte Personnelle</a></li>
+             {% endfor %#}
+            {% block compteUser %}
+                   {% endblock %}
+        </ul>
+        <div class="help_line"><div id="txtblnk"><p>HELP LINE : (+216)54 559 441</p></div></div>
+     </div><!-- /.navbar-collapse -->
+     {% endblock %}
+   </div>
+</nav>
+<script type="text/javascript">
+		$(function() {
+		blinkeffect('#txtblnk');
+		})
+		function blinkeffect(selector) {
+		$(selector).fadeOut('slow', function() {
+		$(this).fadeIn('slow', function() {
+		blinkeffect(this);
+		});
+		});
+		}
+</script>
+<script type="text/javascript">
+ (function() {
+  /**
+   * Video element
+   * @type {HTMLElement}
+   */
+  var video = document.getElementById("my-video");
+
+  /**
+   * Check if video can play, and play it
+   */
+  video.addEventListener( "canplay", function() {
+    video.play();
+  });
+})();  
+</script>
+<video id="my-video" class="video" muted loop>
+  <source src="media/demo.mp4" type="video/mp4">
+</video><!-- /video -->
+<!-- end of headerrrr !-->
+        <!-- start of my profile !-->
+        {% for u in ThisUser %}
+       <form name="row" method="post" class="register" action="{{ path("pidev_all_for_deal_UpdateUserCompte",{'id':u.idUser}) }}">
+        <table align="center">
+            
+            
+            <tr>
+                <td hidden> <label> Id : </label> </td>   
+                <td hidden> <input type="text" name="_id" id="_id" placeholder="Nom" required value="{{u.idUser}}"  hidden/>  </td>  
+            </tr>      
+                
+                
+           <!-- <tr>
+                <td> <label> Nom : </label> </td>   
+                <td> <input type="text" name="nom_id" id="nom" placeholder="Nom" required value="{#{u.nomUser}#}"  />  </td>  
+            </tr> !-->
+            
+            <tr>          
+               <td> <h5><span class="label label-pill label-primary"> Nom : </span></h5> </td>   
+               <td> 
+                                <div class="section">
+                                  <label for="username" class="field prepend-icon">
+                                    <input type="text" name="nom_id" id="nom" placeholder="Nom" required value="{{u.nomUser}}" >
+                                    <span class="error">  </span>
+                                    <label for="login_id" class="field-icon">
+                                        <i class="fa fa-users"></i>
+                                    </label>
+                                  </label>
+                              </div>  
+             </td>    
+            </tr> 
+              
+           <!-- <tr>
+                <td> <label> Nom : </label> </td>
+                <td>
+                 <div class="section">
+                                   <label for="nom" class="field prepend-icon">
+                                       <input type="text" name="nom_id" id="nom" placeholder="Nom" required value="{#{u.nomUser}#}" onkeyup="verif_text()">
+                                    <span class="error">  </span>
+                                    <label for="nom_id" class="field-icon">
+                                    <i class="fa fa-users"></i>
+                                    </label>  
+                                  </label>
+                                   <div id="img_nom"></div> 
+                 </div>
+                </td>
+        </tr>      !-->                  
+          <!--  <tr>
+                <td> <label> Prénom : </label> </td>
+                <td> <input type="text"  name="prnm_id" id="prenom" placeholder="Prénom" value="{#{u.prenomUser}#}"  /> </td>
+            </tr>   !-->
+            
+             <tr>          
+               <td> <h5><span class="label label-pill label-primary"> Prénom : </span></h5> </td>   
+               <td> 
+                                <div class="section">
+                                  <label for="username" class="field prepend-icon">
+                                    <input type="text" name="prnm_id" id="prenom" placeholder="Prénom" value="{{u.prenomUser}}" >
+                                    <span class="error">  </span>
+                                    <label for="login_id" class="field-icon">
+                                        <i class="fa fa-user"></i>
+                                    </label>
+                                  </label>
+                              </div>  
+             </td>    
+            </tr> 
+            
+         <!--   <tr>
+                <td> <label> Addresse : </label> </td>
+                <td> <input type="text" name="address_id" id="addresse" placeholder="Addresse" value="{#{u.adresseUser}#}"  /> </td>
+            </tr>   !-->
+            
+            <tr>          
+             <td> <h5><span class="label label-pill label-primary"> Addresse : </span></h5> </td>   
+               <td> 
+                                <div class="section">
+                                  <label for="username" class="field prepend-icon">
+                                    <input type="text" name="address_id" id="addresse" placeholder="Addresse" value="{{u.adresseUser}}" >
+                                    <span class="error">  </span>
+                                    <label for="login_id" class="field-icon">
+                                        <i class="fa fa-home"></i>
+                                    </label>
+                                  </label>
+                              </div>  
+             </td>    
+            </tr> 
+            
+          <!--  <tr>
+                <td> <label> Email : </label> </td>
+                <td> <input type="text" name="email_id" id="email" placeholder="Email" value="{#{u.emailUser}#}"  /> </td>
+            </tr>   !-->
+             
+            <tr>          
+             <td> <h5><span class="label label-pill label-primary"> Email : </span></h5> </td>   
+               <td> 
+                                <div class="section">
+                                  <label for="username" class="field prepend-icon">
+                                    <input type="text" name="email_id" id="email" placeholder="Email" value="{{u.emailUser}}" >
+                                    <span class="error">  </span>
+                                    <label for="login_id" class="field-icon">
+                                        <i class="fa fa-envelope"></i>
+                                    </label>
+                                  </label>
+                              </div>  
+             </td>    
+            </tr> 
+            
+          <!--  <tr>
+                <td> <label> Numéro Téléphone : </label> </td>
+                <td> <input type="text" name="mobile_number" id="tel" placeholder="Mobile Number" value="{#{u.telUser}#}"  /> </td>
+            </tr> !-->
+            
+             <tr>          
+             <td> <h5><span class="label label-pill label-primary"> Numéro Téléphone : </span></h5> </td>   
+               <td> 
+                    <div class="section">
+                       <label for="username" class="field prepend-icon">
+                           <input type="text" name="mobile_number" id="tel" placeholder="Mobile Number" value="{{u.telUser}}" >
+                               <span class="error">  </span>
+                                    <label for="login_id" class="field-icon">
+                                <i class="fa fa-phone"></i>
+                        </label>
+                       </label>
+                    </div>  
+             </td>    
+            </tr> 
+            
+           <!-- <tr>
+                <td> <label> Statut : </label> </td>           
+                <td> <input type="text" name="getName" id="getName" value="{#{u.statutUser}#}" disabled /> </td>
+             <td>           
+              <select value="" name="statut">  
+             <option value="null">Selectionner Statut</option>
+                <option value="Particulier" name="Particulier">Entreprise</option>
+                <option value="Entreprise"  name="Entreprise">Particulier</option>
+              </select>
+             </td>   
+            </tr>  !--> 
+
+            <tr>          
+             <td> <h5><span class="label label-pill label-primary"> Statut : </span></h5> </td>   
+               <td> 
+                    <div class="section">
+                        <label for="name" class="field prepend-icon">
+                            <select path="country" id="country" class="form-control input-sm" name="statut">
+                                  <option  value="{{u.statutUser}}">{{u.statutUser}}</option>
+                                  <option  value="">----------------------------</option>
+                                  <option value="Particulier" name="Particulier">Particulier</option>
+                                  <option value="Entreprise"  name="Entreprise">Entreprise</option>
+                            </select>
+                            <label for="name" class="field-icon">
+                                <i class="fa fa-user"></i>
+                            </label>
+                        </label>
+                    </div> 
+             </td>    
+            </tr> 
+            
+          <!--  <tr>
+                <td> <label> Login : </label> </td>
+                <td> <input type="text" name="login_id" id="login" placeholder="Login" value="{#{u.loginUser}#}"  /> </td>
+            </tr> !-->
+            
+            <tr>
+             <td> <h5><span class="label label-pill label-primary"> Login : </span></h5> </td>   
+             <td>             
+                     <div class="section">
+                         <label for="username" class="field prepend-icon">
+                            <input type="text" name="login_id" id="login" placeholder="Login" value="{{u.loginUser}}" >
+                              <span class="error">  </span>
+                                 <label for="login_id" class="field-icon">
+                                        <i class="fa fa-lock"></i>
+                                  </label>
+                          </label>
+                     </div>          
+             </td>   
+            </tr>
+            
+            <tr>
+             <td> <h5><span class="label label-pill label-primary"> Password : </span></h5> </td>   
+           <td>             
+                    <div class="section">
+                         <label for="username" class="field prepend-icon">
+                            <input type="password" name="password" id="pwd" placeholder="Password" value="{{u.pwdUser}}" >
+                              <span class="error">  </span>
+                                 <label for="login_id" class="field-icon">
+                                        <i class="fa fa-lock"></i>
+                                  </label>
+                          </label>
+                     </div>          
+             </td>  
+            </tr>
+            
+         <!--   <tr>
+                <td> <label> Sexe : </label> </td>
+                <td> <input type="text" name="getName" id="getName" value="{#{u.sexeUser}#}" disabled  /> </td>
+            <td>              
+            <select value="" name="choixSexe">
+                <option value="null">Selectionner Sexe</option>  
+                <option value="Homme" name="Homme">Homme</option>
+                <option value="Femmme" name="Femmme">Femmme</option>
+            </select>
+             </td>  
+            </tr> !-->
+            
+             <tr>          
+             <td> <h5><span class="label label-pill label-primary"> Sexe : </span></h5> </td>   
+               <td> 
+                    <div class="section">
+                        <label for="name" class="field prepend-icon">
+                            <select path="country" id="country" class="form-control input-sm" name="choixSexe">
+                                  <option  value="{{u.sexeUser}}">{{u.sexeUser}}</option>
+                                  <option  value="">----------------------------</option>
+                                  <option value="Homme" name="Homme">Homme</option>
+                                  <option value="Femmme" name="Femmme">Femmme</option>
+                            </select>
+                            <label for="name" class="field-icon">
+                                <i class="fa fa-user"></i>
+                            </label>
+                        </label>
+                    </div> 
+             </td>    
+            </tr> 
+            
+            
+           <tr>
+             <td> <h5><span class="label label-pill label-primary"> Photo Profile : </span></h5> </td>   
+                <td><img height="90" width="100" src="data:image/jpeg;base64,{{u.readPhoto|base64_encode}}"> </td>
+            </tr>
+           
+            {% endfor %}
+            
+       </table> <br>
+                <div class="submit"><input type="submit" value="Modifier" name="submit" onclick="validation()" class="btn btn-info btn-lg"></div>   <!--onclick="myFunction()"!-->                                       
+        </form> 
+            
+        <!-- end of my profile !-->
+        
+<!-- start of footerrr !-->
+<div class="footer_widget">
+	<div class="container">
+		<div class="col-md-4">
+			<aside id="text-1" class="widget widget_text">
+				<h3 class="widget-title"><span>COME VISIT US</span></h3>
+				<div class="textwidget"><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
+				   <p><em style="color: #fff;">standard chunk.,<br> Finibus Bonorum,<br> Ipsum generators, treatise</em></p>
+				</div> 
+			</aside>
+		</div>
+		<div class="col-md-4">
+			<aside id="text-2" class="widget widget_text">
+				<h3 class="widget-title"><span>MORE ABOUT US</span></h3>
+				<div class="textwidget">
+					<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum,.</p></div>
+		    </aside>
+		</div>
+		<div class="col-md-4">
+			<aside>
+				<h3 class="widget-title"><span>FLICKR FEED</span></h3>
+				<ul class="gallery">
+					<li><a href="{{asset('images/pic5.jpg')}}" class="img-responsive" title="Rose" rel="title1">
+						<img src="{{asset('images/pic5.jpg')}}" class="img-responsive" alt="name">
+					   </a>
+					</li>
+					<li><a href="{{asset('images/pic6.jpg')}}" class="img-responsive" title="Rose" rel="title1">
+						<img src="{{asset('images/pic6.jpg')}}" class="img-responsive" alt="name">
+					   </a>
+					</li>
+					<li><a href="{{asset('images/pic11.jpg')}}" class="img-responsive" title="Rose" rel="title1">
+						<img src="{{asset('images/pic11.jpg')}}" class="img-responsive" alt="name">
+					   </a>
+					</li>
+					<li class="last">
+						<a href="{{asset('images/pic12.jpg')}}" class="img-responsive" title="Rose" rel="title1">
+						<img src="{{asset('images/pic12.jpg')}}" class="img-responsive" alt="name">
+					   </a>
+					</li>
+					<li>
+						<a href="{{asset('images/pic6.jpg')}}" class="img-responsive" title="Rose" rel="title1">
+						<img src="{{asset('images/pic6.jpg')}}" class="img-responsive" alt="name">
+					   </a>
+					</li>
+					<li>
+					   <a href="{{asset('images/pic5.jpg')}}" class="img-responsive" title="Rose" rel="title1">
+						<img src="{{asset('images/pic5.jpg')}}" class="img-responsive" alt="name">
+					   </a>
+				    </li>
+					<li>
+						<a href="{{asset('images/pic11.jpg')}}" class="img-responsive" title="Rose" rel="title1">
+						<img src="{{asset('images/pic11.jpg')}}" class="img-responsive" alt="name">
+					   </a>
+					</li>
+					<li class="last">
+						<a href="{{asset('images/pic12.jpg')}}" class="img-responsive" title="Rose" rel="title1">
+						<img src="{{asset('images/pic12.jpg')}}" class="img-responsive" alt="name">
+					   </a>
+				    </li>
+					<div class="clearfix"> </div>
+				</ul>
+			</aside>
+		</div>
+	</div>
+</div>
+<div class="footer_middle">
+	<div class="container">
+        <div class="col-sm-7">
+          <div class="footer-icons"> 
+          	<a href="https://twitter.com/?lang=en" class="social-icon"><i class="fa fa-twitter has-circle"></i></a> 
+          	<a href="https://www.facebook.com" class="social-icon"><i class="fa fa-facebook has-circle"></i></a> 
+          	<a href="https://www.google.tn/" class="social-icon"><i class="fa fa-google-plus has-circle"></i></a> 
+          	<a href="https://www.linkedin.com/nhome/" class="social-icon"><i class="fa fa-linkedin has-circle"></i></a> 
+          	<div class="clearfix"> </div>
+          </div>
+        </div>
+        <div class="col-sm-5">
+          <div class="newsletter_signup">
+            <form novalidate="" target="_blank" name="newsletter-subscribe-form" id="newsletter-subscribe-form" method="post" class="form-inline validate">
+              <input type="email" required="" placeholder="Subscribe to our newsletter" class="form-control" name="EMAIL" value="">
+              <input type="submit" id="newsletter-subscribe" name="subscribe" value="SUBSCRIBE">
+            </form>
+          </div>
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+</div>		
+<div class="footer_bottom">
+	<div class="container">
+		<div class="copy">
+            <p>Copyright © 2016 Community. All Rights Reserved | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+	    </div>
+	</div>
+	<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;">Top </span></a>
+      <script type="text/javascript" src="{{asset('js/move-top.js')}}"></script>
+      <script type="text/javascript" src="{{asset('js/easing.js')}}"></script>
+      <script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			var defaults = {
+	  			containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+	 		};
+			*/
+			
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			
+		});
+	  </script>
+</div>	
+<!----language selector----->
+<script type="text/javascript" src="{{asset('js/jquery.leanModal.min.js')}}"></script>
+<link href="{{asset('css/jquery.uls.css')}}" rel="stylesheet"/>
+<link href="{{asset('css/jquery.uls.grid.css')}}" rel="stylesheet"/>
+<link href="{{asset('css/jquery.uls.lcd.css')}}" rel="stylesheet"/>
+<!-- Source -->
+<script src="{{asset('js/jquery.uls.data.js')}}"></script>
+<script src="{{asset('js/jquery.uls.data.utils.js')}}"></script>
+<script src="{{asset('js/jquery.uls.lcd.js')}}"></script>
+<script src="{{asset('js/jquery.uls.languagefilter.js')}}"></script>
+<script src="{{asset('js/jquery.uls.regionfilter.js')}}"></script>
+<script src="{{asset('js/jquery.uls.core.js')}}"></script>
+<script>
+	$( document ).ready( function() {
+		$( '.uls-trigger' ).uls( {
+			onSelect : function( language ) {
+				var languageName = $.uls.data.getAutonym( language );
+				$( '.uls-trigger' ).text( languageName );
+			},
+			quickList: ['en', 'hi', 'he', 'ml', 'ta', 'fr'] //FIXME
+		} );
+	} );
+</script>		
+<!-- FlexSlider -->
+<link href="{{asset('css/flexslider.css')}}" rel='stylesheet' type='text/css' />
+<script defer src="{{asset('js/jquery.flexslider.js')}}"></script>
+	  <script type="text/javascript">
+		$(function(){
+		  SyntaxHighlighter.all();
+		});
+		$(window).load(function(){
+		  $('.flexslider').flexslider({
+			animation: "slide",
+			start: function(slider){
+			  $('body').removeClass('loading');
+			}
+		  });
+		});
+	  </script>
+<!-- FlexSlider -->	
+{% endblock %}
+    </body>
+</html>
+<!-- end of footerrr !-->";}i:1;a:2:{i:0;s:6:"string";i:1;s:60:"PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig";}}}i:16;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:16:"Twig_Environment";s:5:"class";s:16:"Twig_Environment";s:4:"type";s:2:"->";s:8:"function";s:12:"loadTemplate";s:4:"file";s:116:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bridge\Twig\TwigEngine.php";s:4:"line";i:126;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"string";i:1;s:60:"PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig";}}}i:17;a:8:{s:9:"namespace";s:19:"Symfony\Bridge\Twig";s:11:"short_class";s:10:"TwigEngine";s:5:"class";s:30:"Symfony\Bridge\Twig\TwigEngine";s:4:"type";s:2:"->";s:8:"function";s:4:"load";s:4:"file";s:116:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bridge\Twig\TwigEngine.php";s:4:"line";i:50;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"string";i:1;s:60:"PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig";}}}i:18;a:8:{s:9:"namespace";s:19:"Symfony\Bridge\Twig";s:11:"short_class";s:10:"TwigEngine";s:5:"class";s:30:"Symfony\Bridge\Twig\TwigEngine";s:4:"type";s:2:"->";s:8:"function";s:6:"render";s:4:"file";s:122:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\TwigBundle\TwigEngine.php";s:4:"line";i:67;s:4:"args";a:2:{i:0;a:2:{i:0;s:6:"string";i:1;s:60:"PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig";}i:1;a:2:{i:0;s:5:"array";i:1;a:1:{s:8:"ThisUser";a:2:{i:0;s:5:"array";i:1;a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:41:"Pidev\AllForDealBundle\Entity\Utilisateur";}}}}}}}i:19;a:8:{s:9:"namespace";s:25:"Symfony\Bundle\TwigBundle";s:11:"short_class";s:10:"TwigEngine";s:5:"class";s:36:"Symfony\Bundle\TwigBundle\TwigEngine";s:4:"type";s:2:"->";s:8:"function";s:6:"render";s:4:"file";s:133:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\TwigBundle\Debug\TimedTwigEngine.php";s:4:"line";i:50;s:4:"args";a:2:{i:0;a:2:{i:0;s:6:"string";i:1;s:60:"PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig";}i:1;a:2:{i:0;s:5:"array";i:1;a:1:{s:8:"ThisUser";a:2:{i:0;s:5:"array";i:1;a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:41:"Pidev\AllForDealBundle\Entity\Utilisateur";}}}}}}}i:20;a:8:{s:9:"namespace";s:31:"Symfony\Bundle\TwigBundle\Debug";s:11:"short_class";s:15:"TimedTwigEngine";s:5:"class";s:47:"Symfony\Bundle\TwigBundle\Debug\TimedTwigEngine";s:4:"type";s:2:"->";s:8:"function";s:6:"render";s:4:"file";s:122:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\TwigBundle\TwigEngine.php";s:4:"line";i:92;s:4:"args";a:2:{i:0;a:2:{i:0;s:6:"string";i:1;s:60:"PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig";}i:1;a:2:{i:0;s:5:"array";i:1;a:1:{s:8:"ThisUser";a:2:{i:0;s:5:"array";i:1;a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:41:"Pidev\AllForDealBundle\Entity\Utilisateur";}}}}}}}i:21;a:8:{s:9:"namespace";s:25:"Symfony\Bundle\TwigBundle";s:11:"short_class";s:10:"TwigEngine";s:5:"class";s:36:"Symfony\Bundle\TwigBundle\TwigEngine";s:4:"type";s:2:"->";s:8:"function";s:14:"renderResponse";s:4:"file";s:138:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle\Controller\Controller.php";s:4:"line";i:176;s:4:"args";a:3:{i:0;a:2:{i:0;s:6:"string";i:1;s:60:"PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig";}i:1;a:2:{i:0;s:5:"array";i:1;a:1:{s:8:"ThisUser";a:2:{i:0;s:5:"array";i:1;a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:41:"Pidev\AllForDealBundle\Entity\Utilisateur";}}}}}i:2;a:2:{i:0;s:4:"null";i:1;N;}}}i:22;a:8:{s:9:"namespace";s:41:"Symfony\Bundle\FrameworkBundle\Controller";s:11:"short_class";s:10:"Controller";s:5:"class";s:52:"Symfony\Bundle\FrameworkBundle\Controller\Controller";s:4:"type";s:2:"->";s:8:"function";s:6:"render";s:4:"file";s:116:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\src\Pidev\AllForDealBundle\Controller\LoginUserController.php";s:4:"line";i:166;s:4:"args";a:2:{i:0;a:2:{i:0;s:6:"string";i:1;s:60:"PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig";}i:1;a:2:{i:0;s:5:"array";i:1;a:1:{s:8:"ThisUser";a:2:{i:0;s:5:"array";i:1;a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:41:"Pidev\AllForDealBundle\Entity\Utilisateur";}}}}}}}i:23;a:8:{s:9:"namespace";s:33:"Pidev\AllForDealBundle\Controller";s:11:"short_class";s:19:"LoginUserController";s:5:"class";s:53:"Pidev\AllForDealBundle\Controller\LoginUserController";s:4:"type";s:2:"->";s:8:"function";s:20:"VersCompteUserAction";s:4:"file";N;s:4:"line";N;s:4:"args";a:2:{i:0;a:2:{i:0;s:6:"string";i:1;s:10:"KAAAAAaa12";}i:1;a:2:{i:0;s:6:"string";i:1;s:10:"KAAAAAaa12";}}}i:24;a:8:{s:9:"namespace";s:0:"";s:11:"short_class";s:0:"";s:5:"class";s:0:"";s:4:"type";s:0:"";s:8:"function";s:20:"call_user_func_array";s:4:"file";s:78:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\bootstrap.php.cache";s:4:"line";i:3054;s:4:"args";a:2:{i:0;a:2:{i:0;s:5:"array";i:1;a:2:{i:0;a:2:{i:0;s:6:"object";i:1;s:53:"Pidev\AllForDealBundle\Controller\LoginUserController";}i:1;a:2:{i:0;s:6:"string";i:1;s:20:"VersCompteUserAction";}}}i:1;a:2:{i:0;s:5:"array";i:1;a:2:{i:0;a:2:{i:0;s:6:"string";i:1;s:10:"KAAAAAaa12";}i:1;a:2:{i:0;s:6:"string";i:1;s:10:"KAAAAAaa12";}}}}}i:25;a:8:{s:9:"namespace";s:28:"Symfony\Component\HttpKernel";s:11:"short_class";s:10:"HttpKernel";s:5:"class";s:39:"Symfony\Component\HttpKernel\HttpKernel";s:4:"type";s:2:"->";s:8:"function";s:9:"handleRaw";s:4:"file";s:78:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\bootstrap.php.cache";s:4:"line";i:3016;s:4:"args";a:2:{i:0;a:2:{i:0;s:6:"object";i:1;s:40:"Symfony\Component\HttpFoundation\Request";}i:1;a:2:{i:0;s:6:"string";i:1;s:1:"1";}}}i:26;a:8:{s:9:"namespace";s:28:"Symfony\Component\HttpKernel";s:11:"short_class";s:10:"HttpKernel";s:5:"class";s:39:"Symfony\Component\HttpKernel\HttpKernel";s:4:"type";s:2:"->";s:8:"function";s:6:"handle";s:4:"file";s:78:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\bootstrap.php.cache";s:4:"line";i:3165;s:4:"args";a:3:{i:0;a:2:{i:0;s:6:"object";i:1;s:40:"Symfony\Component\HttpFoundation\Request";}i:1;a:2:{i:0;s:6:"string";i:1;s:1:"1";}i:2;a:2:{i:0;s:7:"boolean";i:1;b:1;}}}i:27;a:8:{s:9:"namespace";s:48:"Symfony\Component\HttpKernel\DependencyInjection";s:11:"short_class";s:24:"ContainerAwareHttpKernel";s:5:"class";s:73:"Symfony\Component\HttpKernel\DependencyInjection\ContainerAwareHttpKernel";s:4:"type";s:2:"->";s:8:"function";s:6:"handle";s:4:"file";s:78:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\bootstrap.php.cache";s:4:"line";i:2406;s:4:"args";a:3:{i:0;a:2:{i:0;s:6:"object";i:1;s:40:"Symfony\Component\HttpFoundation\Request";}i:1;a:2:{i:0;s:6:"string";i:1;s:1:"1";}i:2;a:2:{i:0;s:7:"boolean";i:1;b:1;}}}i:28;a:8:{s:9:"namespace";s:28:"Symfony\Component\HttpKernel";s:11:"short_class";s:6:"Kernel";s:5:"class";s:35:"Symfony\Component\HttpKernel\Kernel";s:4:"type";s:2:"->";s:8:"function";s:6:"handle";s:4:"file";s:70:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\web\app_dev.php";s:4:"line";i:28;s:4:"args";a:1:{i:0;a:2:{i:0;s:6:"object";i:1;s:40:"Symfony\Component\HttpFoundation\Request";}}}}s:57:" Symfony\Component\Debug\Exception\FlattenException class";s:17:"Twig_Error_Syntax";s:62:" Symfony\Component\Debug\Exception\FlattenException statusCode";i:500;s:59:" Symfony\Component\Debug\Exception\FlattenException headers";a:0:{}s:56:" Symfony\Component\Debug\Exception\FlattenException file";s:101:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\ExpressionParser.php";s:56:" Symfony\Component\Debug\Exception\FlattenException line";i:604;s:64:" Symfony\Component\HttpKernel\Exception\FlattenException handler";N;}}}s:6:"events";C:61:"Symfony\Component\HttpKernel\DataCollector\EventDataCollector":23384:{a:2:{s:16:"called_listeners";a:32:{s:90:"kernel.request.Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:64:"Symfony\Component\HttpKernel\EventListener\DebugHandlersListener";s:6:"method";s:9:"configure";s:4:"file";s:150:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\DebugHandlersListener.php";s:4:"line";i:63;s:6:"pretty";s:75:"Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure";}s:91:"kernel.request.Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelRequest";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\HttpKernel\EventListener\ProfilerListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:145:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\ProfilerListener.php";s:4:"line";i:78;s:6:"pretty";s:76:"Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelRequest";}s:81:"kernel.request.Symfony\Component\HttpKernel\EventListener\DumpListener::configure";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:55:"Symfony\Component\HttpKernel\EventListener\DumpListener";s:6:"method";s:9:"configure";s:4:"file";s:141:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\DumpListener.php";s:4:"line";i:40;s:6:"pretty";s:66:"Symfony\Component\HttpKernel\EventListener\DumpListener::configure";}s:92:"kernel.request.Symfony\Bundle\FrameworkBundle\EventListener\SessionListener::onKernelRequest";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:60:"Symfony\Bundle\FrameworkBundle\EventListener\SessionListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:3083;s:6:"pretty";s:77:"Symfony\Bundle\FrameworkBundle\EventListener\SessionListener::onKernelRequest";}s:91:"kernel.request.Symfony\Component\HttpKernel\EventListener\FragmentListener::onKernelRequest";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\HttpKernel\EventListener\FragmentListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:145:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\FragmentListener.php";s:4:"line";i:56;s:6:"pretty";s:76:"Symfony\Component\HttpKernel\EventListener\FragmentListener::onKernelRequest";}s:89:"kernel.request.Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:57:"Symfony\Component\HttpKernel\EventListener\RouterListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:4899;s:6:"pretty";s:74:"Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest";}s:89:"kernel.request.Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:57:"Symfony\Component\HttpKernel\EventListener\LocaleListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:143:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\LocaleListener.php";s:4:"line";i:69;s:6:"pretty";s:74:"Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest";}s:93:"kernel.request.Symfony\Component\HttpKernel\EventListener\TranslatorListener::onKernelRequest";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:61:"Symfony\Component\HttpKernel\EventListener\TranslatorListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:147:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\TranslatorListener.php";s:4:"line";i:38;s:6:"pretty";s:78:"Symfony\Component\HttpKernel\EventListener\TranslatorListener::onKernelRequest";}s:72:"kernel.request.Symfony\Component\Security\Http\Firewall::onKernelRequest";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:40:"Symfony\Component\Security\Http\Firewall";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:5823;s:6:"pretty";s:57:"Symfony\Component\Security\Http\Firewall::onKernelRequest";}s:90:"kernel.request.Symfony\Bundle\AsseticBundle\EventListener\RequestListener::onKernelRequest";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:58:"Symfony\Bundle\AsseticBundle\EventListener\RequestListener";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:118:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\assetic-bundle\EventListener\RequestListener.php";s:4:"line";i:23;s:6:"pretty";s:75:"Symfony\Bundle\AsseticBundle\EventListener\RequestListener::onKernelRequest";}s:97:"kernel.request.Knp\Bundle\PaginatorBundle\Subscriber\SlidingPaginationSubscriber::onKernelRequest";a:7:{s:5:"event";s:14:"kernel.request";s:4:"type";s:6:"Method";s:5:"class";s:65:"Knp\Bundle\PaginatorBundle\Subscriber\SlidingPaginationSubscriber";s:6:"method";s:15:"onKernelRequest";s:4:"file";s:133:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\knplabs\knp-paginator-bundle\Subscriber\SlidingPaginationSubscriber.php";s:4:"line";i:22;s:6:"pretty";s:82:"Knp\Bundle\PaginatorBundle\Subscriber\SlidingPaginationSubscriber::onKernelRequest";}s:102:"kernel.controller.Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector::onKernelController";a:7:{s:5:"event";s:17:"kernel.controller";s:4:"type";s:6:"Method";s:5:"class";s:64:"Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector";s:6:"method";s:18:"onKernelController";s:4:"file";s:148:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\DataCollector\RouterDataCollector.php";s:4:"line";i:66;s:6:"pretty";s:84:"Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector::onKernelController";}s:86:"kernel.controller.Acme\DemoBundle\EventListener\ControllerListener::onKernelController";a:7:{s:5:"event";s:17:"kernel.controller";s:4:"type";s:6:"Method";s:5:"class";s:48:"Acme\DemoBundle\EventListener\ControllerListener";s:6:"method";s:18:"onKernelController";s:4:"file";s:111:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\src\Acme\DemoBundle\EventListener\ControllerListener.php";s:4:"line";i:18;s:6:"pretty";s:68:"Acme\DemoBundle\EventListener\ControllerListener::onKernelController";}s:101:"kernel.controller.Symfony\Component\HttpKernel\DataCollector\RequestDataCollector::onKernelController";a:7:{s:5:"event";s:17:"kernel.controller";s:4:"type";s:6:"Method";s:5:"class";s:63:"Symfony\Component\HttpKernel\DataCollector\RequestDataCollector";s:6:"method";s:18:"onKernelController";s:4:"file";s:149:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\DataCollector\RequestDataCollector.php";s:4:"line";i:284;s:6:"pretty";s:83:"Symfony\Component\HttpKernel\DataCollector\RequestDataCollector::onKernelController";}s:105:"kernel.controller.Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener::onKernelController";a:7:{s:5:"event";s:17:"kernel.controller";s:4:"type";s:6:"Method";s:5:"class";s:67:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener";s:6:"method";s:18:"onKernelController";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:1744;s:6:"pretty";s:87:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener::onKernelController";}s:109:"kernel.controller.Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener::onKernelController";a:7:{s:5:"event";s:17:"kernel.controller";s:4:"type";s:6:"Method";s:5:"class";s:71:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener";s:6:"method";s:18:"onKernelController";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:1931;s:6:"pretty";s:91:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener::onKernelController";}s:104:"kernel.controller.Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener::onKernelController";a:7:{s:5:"event";s:17:"kernel.controller";s:4:"type";s:6:"Method";s:5:"class";s:66:"Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener";s:6:"method";s:18:"onKernelController";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:1818;s:6:"pretty";s:86:"Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener::onKernelController";}s:103:"kernel.controller.Sensio\Bundle\FrameworkExtraBundle\EventListener\SecurityListener::onKernelController";a:7:{s:5:"event";s:17:"kernel.controller";s:4:"type";s:6:"Method";s:5:"class";s:65:"Sensio\Bundle\FrameworkExtraBundle\EventListener\SecurityListener";s:6:"method";s:18:"onKernelController";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:2008;s:6:"pretty";s:85:"Sensio\Bundle\FrameworkExtraBundle\EventListener\SecurityListener::onKernelController";}s:103:"kernel.controller.Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelController";a:7:{s:5:"event";s:17:"kernel.controller";s:4:"type";s:6:"Method";s:5:"class";s:65:"Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener";s:6:"method";s:18:"onKernelController";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:2062;s:6:"pretty";s:85:"Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelController";}s:93:"kernel.response.Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse";a:7:{s:5:"event";s:15:"kernel.response";s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\HttpKernel\EventListener\ResponseListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:4830;s:6:"pretty";s:77:"Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse";}s:93:"kernel.response.Symfony\Component\Security\Http\RememberMe\ResponseListener::onKernelResponse";a:7:{s:5:"event";s:15:"kernel.response";s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\Security\Http\RememberMe\ResponseListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:145:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\Security\Http\RememberMe\ResponseListener.php";s:4:"line";i:28;s:6:"pretty";s:77:"Symfony\Component\Security\Http\RememberMe\ResponseListener::onKernelResponse";}s:100:"kernel.response.Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener::onKernelResponse";a:7:{s:5:"event";s:15:"kernel.response";s:4:"type";s:6:"Method";s:5:"class";s:66:"Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:1848;s:6:"pretty";s:84:"Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener::onKernelResponse";}s:93:"kernel.response.Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelResponse";a:7:{s:5:"event";s:15:"kernel.response";s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\HttpKernel\EventListener\ProfilerListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:145:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\ProfilerListener.php";s:4:"line";i:90;s:6:"pretty";s:77:"Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelResponse";}s:104:"kernel.response.Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener::onKernelResponse";a:7:{s:5:"event";s:15:"kernel.response";s:4:"type";s:6:"Method";s:5:"class";s:70:"Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:156:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener.php";s:4:"line";i:59;s:6:"pretty";s:88:"Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener::onKernelResponse";}s:96:"kernel.response.Symfony\Component\HttpKernel\EventListener\SaveSessionListener::onKernelResponse";a:7:{s:5:"event";s:15:"kernel.response";s:4:"type";s:6:"Method";s:5:"class";s:62:"Symfony\Component\HttpKernel\EventListener\SaveSessionListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:148:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\SaveSessionListener.php";s:4:"line";i:47;s:6:"pretty";s:80:"Symfony\Component\HttpKernel\EventListener\SaveSessionListener::onKernelResponse";}s:101:"kernel.response.Symfony\Component\HttpKernel\EventListener\StreamedResponseListener::onKernelResponse";a:7:{s:5:"event";s:15:"kernel.response";s:4:"type";s:6:"Method";s:5:"class";s:67:"Symfony\Component\HttpKernel\EventListener\StreamedResponseListener";s:6:"method";s:16:"onKernelResponse";s:4:"file";s:153:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\StreamedResponseListener.php";s:4:"line";i:32;s:6:"pretty";s:85:"Symfony\Component\HttpKernel\EventListener\StreamedResponseListener::onKernelResponse";}s:102:"kernel.finish_request.Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest";a:7:{s:5:"event";s:21:"kernel.finish_request";s:4:"type";s:6:"Method";s:5:"class";s:57:"Symfony\Component\HttpKernel\EventListener\LocaleListener";s:6:"method";s:21:"onKernelFinishRequest";s:4:"file";s:143:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\LocaleListener.php";s:4:"line";i:78;s:6:"pretty";s:80:"Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest";}s:106:"kernel.finish_request.Symfony\Component\HttpKernel\EventListener\TranslatorListener::onKernelFinishRequest";a:7:{s:5:"event";s:21:"kernel.finish_request";s:4:"type";s:6:"Method";s:5:"class";s:61:"Symfony\Component\HttpKernel\EventListener\TranslatorListener";s:6:"method";s:21:"onKernelFinishRequest";s:4:"file";s:147:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\TranslatorListener.php";s:4:"line";i:43;s:6:"pretty";s:84:"Symfony\Component\HttpKernel\EventListener\TranslatorListener::onKernelFinishRequest";}s:102:"kernel.finish_request.Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest";a:7:{s:5:"event";s:21:"kernel.finish_request";s:4:"type";s:6:"Method";s:5:"class";s:57:"Symfony\Component\HttpKernel\EventListener\RouterListener";s:6:"method";s:21:"onKernelFinishRequest";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:4893;s:6:"pretty";s:80:"Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest";}s:85:"kernel.finish_request.Symfony\Component\Security\Http\Firewall::onKernelFinishRequest";a:7:{s:5:"event";s:21:"kernel.finish_request";s:4:"type";s:6:"Method";s:5:"class";s:40:"Symfony\Component\Security\Http\Firewall";s:6:"method";s:21:"onKernelFinishRequest";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:5840;s:6:"pretty";s:63:"Symfony\Component\Security\Http\Firewall::onKernelFinishRequest";}s:95:"kernel.exception.Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelException";a:7:{s:5:"event";s:16:"kernel.exception";s:4:"type";s:6:"Method";s:5:"class";s:59:"Symfony\Component\HttpKernel\EventListener\ProfilerListener";s:6:"method";s:17:"onKernelException";s:4:"file";s:145:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\ProfilerListener.php";s:4:"line";i:66;s:6:"pretty";s:78:"Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelException";}s:96:"kernel.exception.Symfony\Component\HttpKernel\EventListener\ExceptionListener::onKernelException";a:7:{s:5:"event";s:16:"kernel.exception";s:4:"type";s:6:"Method";s:5:"class";s:60:"Symfony\Component\HttpKernel\EventListener\ExceptionListener";s:6:"method";s:17:"onKernelException";s:4:"file";s:146:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\ExceptionListener.php";s:4:"line";i:40;s:6:"pretty";s:79:"Symfony\Component\HttpKernel\EventListener\ExceptionListener::onKernelException";}}s:20:"not_called_listeners";a:11:{s:82:"kernel.terminate.Symfony\Component\EventDispatcher\Debug\WrappedListener::__invoke";a:7:{s:5:"event";s:16:"kernel.terminate";s:4:"type";s:6:"Method";s:5:"class";s:55:"Symfony\Component\EventDispatcher\Debug\WrappedListener";s:6:"method";s:8:"__invoke";s:4:"file";s:141:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\EventDispatcher\Debug\WrappedListener.php";s:4:"line";i:55;s:6:"pretty";s:65:"Symfony\Component\EventDispatcher\Debug\WrappedListener::__invoke";}s:91:"console.command.Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure";a:7:{s:5:"event";s:15:"console.command";s:4:"type";s:6:"Method";s:5:"class";s:64:"Symfony\Component\HttpKernel\EventListener\DebugHandlersListener";s:6:"method";s:9:"configure";s:4:"file";s:150:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Component\HttpKernel\EventListener\DebugHandlersListener.php";s:4:"line";i:63;s:6:"pretty";s:75:"Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure";}s:72:"console.command.Symfony\Bridge\Monolog\Handler\ConsoleHandler::onCommand";a:7:{s:5:"event";s:15:"console.command";s:4:"type";s:6:"Method";s:5:"class";s:45:"Symfony\Bridge\Monolog\Handler\ConsoleHandler";s:6:"method";s:9:"onCommand";s:4:"file";s:131:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bridge\Monolog\Handler\ConsoleHandler.php";s:4:"line";i:121;s:6:"pretty";s:56:"Symfony\Bridge\Monolog\Handler\ConsoleHandler::onCommand";}s:97:"console.terminate.Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener::onTerminate";a:7:{s:5:"event";s:17:"console.terminate";s:4:"type";s:6:"Method";s:5:"class";s:66:"Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener";s:6:"method";s:11:"onTerminate";s:4:"file";s:126:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\swiftmailer-bundle\EventListener\EmailSenderListener.php";s:4:"line";i:46;s:6:"pretty";s:79:"Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener::onTerminate";}s:76:"console.terminate.Symfony\Bridge\Monolog\Handler\ConsoleHandler::onTerminate";a:7:{s:5:"event";s:17:"console.terminate";s:4:"type";s:6:"Method";s:5:"class";s:45:"Symfony\Bridge\Monolog\Handler\ConsoleHandler";s:6:"method";s:11:"onTerminate";s:4:"file";s:131:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\symfony\symfony\src\Symfony\Bridge\Monolog\Handler\ConsoleHandler.php";s:4:"line";i:131;s:6:"pretty";s:58:"Symfony\Bridge\Monolog\Handler\ConsoleHandler::onTerminate";}s:91:"kernel.view.Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelView";a:7:{s:5:"event";s:11:"kernel.view";s:4:"type";s:6:"Method";s:5:"class";s:65:"Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener";s:6:"method";s:12:"onKernelView";s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:2078;s:6:"pretty";s:79:"Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelView";}s:89:"knp_pager.before.Knp\Component\Pager\Event\Subscriber\Sortable\SortableSubscriber::before";a:7:{s:5:"event";s:16:"knp_pager.before";s:4:"type";s:6:"Method";s:5:"class";s:64:"Knp\Component\Pager\Event\Subscriber\Sortable\SortableSubscriber";s:6:"method";s:6:"before";s:4:"file";s:157:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\knplabs\knp-components\src\Knp\Component\Pager\Event\Subscriber\Sortable\SortableSubscriber.php";s:4:"line";i:10;s:6:"pretty";s:72:"Knp\Component\Pager\Event\Subscriber\Sortable\SortableSubscriber::before";}s:93:"knp_pager.before.Knp\Component\Pager\Event\Subscriber\Filtration\FiltrationSubscriber::before";a:7:{s:5:"event";s:16:"knp_pager.before";s:4:"type";s:6:"Method";s:5:"class";s:68:"Knp\Component\Pager\Event\Subscriber\Filtration\FiltrationSubscriber";s:6:"method";s:6:"before";s:4:"file";s:161:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\knplabs\knp-components\src\Knp\Component\Pager\Event\Subscriber\Filtration\FiltrationSubscriber.php";s:4:"line";i:10;s:6:"pretty";s:76:"Knp\Component\Pager\Event\Subscriber\Filtration\FiltrationSubscriber::before";}s:91:"knp_pager.before.Knp\Component\Pager\Event\Subscriber\Paginate\PaginationSubscriber::before";a:7:{s:5:"event";s:16:"knp_pager.before";s:4:"type";s:6:"Method";s:5:"class";s:66:"Knp\Component\Pager\Event\Subscriber\Paginate\PaginationSubscriber";s:6:"method";s:6:"before";s:4:"file";s:159:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\knplabs\knp-components\src\Knp\Component\Pager\Event\Subscriber\Paginate\PaginationSubscriber.php";s:4:"line";i:18;s:6:"pretty";s:74:"Knp\Component\Pager\Event\Subscriber\Paginate\PaginationSubscriber::before";}s:98:"knp_pager.pagination.Knp\Bundle\PaginatorBundle\Subscriber\SlidingPaginationSubscriber::pagination";a:7:{s:5:"event";s:20:"knp_pager.pagination";s:4:"type";s:6:"Method";s:5:"class";s:65:"Knp\Bundle\PaginatorBundle\Subscriber\SlidingPaginationSubscriber";s:6:"method";s:10:"pagination";s:4:"file";s:133:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\knplabs\knp-paginator-bundle\Subscriber\SlidingPaginationSubscriber.php";s:4:"line";i:34;s:6:"pretty";s:77:"Knp\Bundle\PaginatorBundle\Subscriber\SlidingPaginationSubscriber::pagination";}s:99:"knp_pager.pagination.Knp\Component\Pager\Event\Subscriber\Paginate\PaginationSubscriber::pagination";a:7:{s:5:"event";s:20:"knp_pager.pagination";s:4:"type";s:6:"Method";s:5:"class";s:66:"Knp\Component\Pager\Event\Subscriber\Paginate\PaginationSubscriber";s:6:"method";s:10:"pagination";s:4:"file";s:159:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\knplabs\knp-components\src\Knp\Component\Pager\Event\Subscriber\Paginate\PaginationSubscriber.php";s:4:"line";i:12;s:6:"pretty";s:78:"Knp\Component\Pager\Event\Subscriber\Paginate\PaginationSubscriber::pagination";}}}}s:6:"logger";C:62:"Symfony\Component\HttpKernel\DataCollector\LoggerDataCollector":18901:{a:5:{s:11:"error_count";i:1;s:17:"deprecation_count";i:1;s:12:"scream_count";i:0;s:10:"priorities";a:3:{i:100;a:2:{s:5:"count";i:65;s:4:"name";s:5:"DEBUG";}i:200;a:2:{s:5:"count";i:1;s:4:"name";s:4:"INFO";}i:500;a:2:{s:5:"count";i:1;s:4:"name";s:8:"CRITICAL";}}s:4:"logs";a:67:{i:0;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:249:"Matched route "pidev_all_for_deal_AccesCompteUser" (parameters: "_controller": "Pidev\AllForDealBundle\Controller\LoginUserController::VersCompteUserAction", "login": "KAAAAAaa12", "pwd": "KAAAAAaa12", "_route": "pidev_all_for_deal_AccesCompteUser")";s:8:"priority";i:200;s:12:"priorityName";s:4:"INFO";s:7:"context";a:0:{}}i:1;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:122:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:2;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:123:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:3;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:113:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\DumpListener::configure".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:4;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:124:"Notified event "kernel.request" to listener "Symfony\Bundle\FrameworkBundle\EventListener\SessionListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:5;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:123:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\FragmentListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:6;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:121:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:7;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:121:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:8;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:125:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\TranslatorListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:9;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:104:"Notified event "kernel.request" to listener "Symfony\Component\Security\Http\Firewall::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:10;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:122:"Notified event "kernel.request" to listener "Symfony\Bundle\AsseticBundle\EventListener\RequestListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:11;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:129:"Notified event "kernel.request" to listener "Knp\Bundle\PaginatorBundle\Subscriber\SlidingPaginationSubscriber::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:12;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:134:"Notified event "kernel.controller" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:13;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:118:"Notified event "kernel.controller" to listener "Acme\DemoBundle\EventListener\ControllerListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:14;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:133:"Notified event "kernel.controller" to listener "Symfony\Component\HttpKernel\DataCollector\RequestDataCollector::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:15;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:137:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:16;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:141:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:17;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:136:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:18;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:135:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\SecurityListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:19;a:5:{s:9:"timestamp";i:1460985205;s:7:"message";s:135:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:20;a:5:{s:9:"timestamp";i:1460985207;s:7:"message";s:406:"SELECT t0.id_user AS id_user1, t0.nom_user AS nom_user2, t0.prenom_user AS prenom_user3, t0.adresse_user AS adresse_user4, t0.email_user AS email_user5, t0.tel_user AS tel_user6, t0.statut_user AS statut_user7, t0.login_user AS login_user8, t0.pwd_user AS pwd_user9, t0.sexe_user AS sexe_user10, t0.ban AS ban11, t0.photo_user AS photo_user12 FROM utilisateur t0 WHERE t0.login_user = ? AND t0.pwd_user = ?";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:2:{i:0;s:10:"KAAAAAaa12";i:1;s:10:"KAAAAAaa12";}}i:21;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:268:"Uncaught PHP Exception Twig_Error_Syntax: "Unknown "base64_encode" filter in "PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig" at line 1083." at C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\vendor\twig\twig\lib\Twig\ExpressionParser.php line 604";s:8:"priority";i:500;s:12:"priorityName";s:8:"CRITICAL";s:7:"context";a:1:{s:9:"exception";s:25:"Object(Twig_Error_Syntax)";}}i:22;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:122:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:23;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:123:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:24;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:113:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\DumpListener::configure".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:25;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:124:"Notified event "kernel.request" to listener "Symfony\Bundle\FrameworkBundle\EventListener\SessionListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:26;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:123:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\FragmentListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:27;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:121:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:28;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:121:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:29;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:125:"Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\TranslatorListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:30;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:104:"Notified event "kernel.request" to listener "Symfony\Component\Security\Http\Firewall::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:31;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:122:"Notified event "kernel.request" to listener "Symfony\Bundle\AsseticBundle\EventListener\RequestListener::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:32;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:129:"Notified event "kernel.request" to listener "Knp\Bundle\PaginatorBundle\Subscriber\SlidingPaginationSubscriber::onKernelRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:33;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:134:"Notified event "kernel.controller" to listener "Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:34;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:118:"Notified event "kernel.controller" to listener "Acme\DemoBundle\EventListener\ControllerListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:35;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:133:"Notified event "kernel.controller" to listener "Symfony\Component\HttpKernel\DataCollector\RequestDataCollector::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:36;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:137:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:37;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:141:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:38;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:136:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:39;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:135:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\SecurityListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:40;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:135:"Notified event "kernel.controller" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener::onKernelController".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:41;a:5:{s:9:"timestamp";i:1460985209;s:7:"message";s:285:"Defining the initRuntime() method in the "form" extension is deprecated since version 1.23. Use the `needs_environment` option to get the Twig_Environment instance in filters, functions, or tests; or explicitly implement Twig_Extension_InitRuntimeInterface if needed (not recommended).";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:5:{s:4:"type";i:16384;s:4:"file";s:80:"C:\wamp\www\Esprit_3A5_ProjetPiDev\AllForDeal_Symfony2\app\cache\dev\classes.php";s:4:"line";i:6196;s:5:"level";i:4352;s:6:"scream";b:1;}}i:42;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:125:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:43;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:125:"Notified event "kernel.response" to listener "Symfony\Component\Security\Http\RememberMe\ResponseListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:44;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:132:"Notified event "kernel.response" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:45;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:125:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:46;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:136:"Notified event "kernel.response" to listener "Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:47;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:128:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SaveSessionListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:48;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:133:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\StreamedResponseListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:49;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:134:"Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:50;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:138:"Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\TranslatorListener::onKernelFinishRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:51;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:134:"Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:52;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:117:"Notified event "kernel.finish_request" to listener "Symfony\Component\Security\Http\Firewall::onKernelFinishRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:53;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:127:"Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelException".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:54;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:128:"Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ExceptionListener::onKernelException".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:55;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:143:"Listener "Symfony\Component\HttpKernel\EventListener\ExceptionListener::onKernelException" stopped propagation of the event "kernel.exception".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:56;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:125:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:57;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:125:"Notified event "kernel.response" to listener "Symfony\Component\Security\Http\RememberMe\ResponseListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:58;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:132:"Notified event "kernel.response" to listener "Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:59;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:125:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:60;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:136:"Notified event "kernel.response" to listener "Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:61;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:128:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SaveSessionListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:62;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:133:"Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\StreamedResponseListener::onKernelResponse".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:63;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:134:"Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:64;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:138:"Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\TranslatorListener::onKernelFinishRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:65;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:134:"Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}i:66;a:5:{s:9:"timestamp";i:1460985210;s:7:"message";s:117:"Notified event "kernel.finish_request" to listener "Symfony\Component\Security\Http\Firewall::onKernelFinishRequest".";s:8:"priority";i:100;s:12:"priorityName";s:5:"DEBUG";s:7:"context";a:0:{}}}}}s:4:"time";C:60:"Symfony\Component\HttpKernel\DataCollector\TimeDataCollector":27728:{a:2:{s:10:"start_time";d:1460985203578.1519;s:6:"events";a:39:{s:11:"__section__";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:2:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:0;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5476;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}i:1;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5534;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5661;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23855104;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"default";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:14:"kernel.request";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:0;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:165;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:10223616;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"section";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:64:"Symfony\Component\HttpKernel\EventListener\DebugHandlersListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:1;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:6;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:9699328;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:59:"Symfony\Component\HttpKernel\EventListener\ProfilerListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:4:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:6;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:7;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:9699328;}i:1;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:3690;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:3691;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:20971520;}i:2;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5369;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5405;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}i:3;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5536;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5661;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23855104;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:55:"Symfony\Component\HttpKernel\EventListener\DumpListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:7;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:7;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:9699328;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:60:"Symfony\Bundle\FrameworkBundle\EventListener\SessionListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:8;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:33;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:9699328;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:59:"Symfony\Component\HttpKernel\EventListener\FragmentListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:33;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:36;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:9699328;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:57:"Symfony\Component\HttpKernel\EventListener\RouterListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:2:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:37;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:158;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:10223616;}i:1;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5326;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5327;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:57:"Symfony\Component\HttpKernel\EventListener\LocaleListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:2:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:158;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:159;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:10223616;}i:1;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5325;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5325;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:61:"Symfony\Component\HttpKernel\EventListener\TranslatorListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:2:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:160;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:161;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:10223616;}i:1;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5325;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5326;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:40:"Symfony\Component\Security\Http\Firewall";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:2:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:162;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:162;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:10223616;}i:1;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5327;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5328;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:58:"Symfony\Bundle\AsseticBundle\EventListener\RequestListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:163;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:164;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:10223616;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:65:"Knp\Bundle\PaginatorBundle\Subscriber\SlidingPaginationSubscriber";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:165;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:165;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:10223616;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:23:"controller.get_callable";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:226;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:236;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:10223616;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"default";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:17:"kernel.controller";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:377;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:395;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"section";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:64:"Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:378;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:379;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:48:"Acme\DemoBundle\EventListener\ControllerListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:379;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:380;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:63:"Symfony\Component\HttpKernel\DataCollector\RequestDataCollector";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:380;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:380;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:67:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ControllerListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:381;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:388;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:71:"Sensio\Bundle\FrameworkExtraBundle\EventListener\ParamConverterListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:388;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:389;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:66:"Sensio\Bundle\FrameworkExtraBundle\EventListener\HttpCacheListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:2:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:389;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:390;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}i:1;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5369;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5369;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:65:"Sensio\Bundle\FrameworkExtraBundle\EventListener\SecurityListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:390;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:391;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:65:"Sensio\Bundle\FrameworkExtraBundle\EventListener\TemplateListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:391;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:392;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:10:"controller";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:395;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5362;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"section";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:24:"controller.get_arguments";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:450;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:451;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:11010048;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"default";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:8:"doctrine";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:1651;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:1663;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:16252928;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:8:"doctrine";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:76:"template.twig (PidevAllForDealBundle:CompteUser:AccederCompteUser.html.twig)";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:2118;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5663;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23855104;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:8:"template";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:16:"kernel.exception";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:3690;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5345;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"section";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:60:"Symfony\Component\HttpKernel\EventListener\ExceptionListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:3691;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5345;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:17:"__section__.child";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:3714;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5294;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"section";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:21:"kernel.finish_request";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5324;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5328;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"section";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:15:"kernel.response";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5362;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5476;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"section";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:59:"Symfony\Component\HttpKernel\EventListener\ResponseListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5363;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5365;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:59:"Symfony\Component\Security\Http\RememberMe\ResponseListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5365;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5368;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:70:"Symfony\Bundle\WebProfilerBundle\EventListener\WebDebugToolbarListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5405;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5474;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:62:"Symfony\Component\HttpKernel\EventListener\SaveSessionListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5474;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5475;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:67:"Symfony\Component\HttpKernel\EventListener\StreamedResponseListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5475;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5476;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:16:"kernel.terminate";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5535;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5663;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23855104;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:7:"section";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}s:66:"Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener";O:42:"Symfony\Component\Stopwatch\StopwatchEvent":4:{s:51:" Symfony\Component\Stopwatch\StopwatchEvent periods";a:1:{i:0;O:43:"Symfony\Component\Stopwatch\StopwatchPeriod":3:{s:50:" Symfony\Component\Stopwatch\StopwatchPeriod start";i:5536;s:48:" Symfony\Component\Stopwatch\StopwatchPeriod end";i:5536;s:51:" Symfony\Component\Stopwatch\StopwatchPeriod memory";i:23330816;}}s:50:" Symfony\Component\Stopwatch\StopwatchEvent origin";d:1460985205426.3;s:52:" Symfony\Component\Stopwatch\StopwatchEvent category";s:14:"event_listener";s:51:" Symfony\Component\Stopwatch\StopwatchEvent started";a:0:{}}}}}s:6:"memory";C:62:"Symfony\Component\HttpKernel\DataCollector\MemoryDataCollector":62:{a:2:{s:6:"memory";i:28835840;s:12:"memory_limit";i:134217728;}}s:6:"router";C:64:"Symfony\Bundle\FrameworkBundle\DataCollector\RouterDataCollector":51:{a:3:{s:8:"redirect";b:0;s:3:"url";N;s:5:"route";N;}}s:4:"form";C:64:"Symfony\Component\Form\Extension\DataCollector\FormDataCollector":71:{a:3:{s:5:"forms";a:0:{}s:13:"forms_by_hash";a:0:{}s:9:"nb_errors";i:0;}}s:2:"db";C:66:"Doctrine\Bundle\DoctrineBundle\DataCollector\DoctrineDataCollector":1158:{a:6:{s:7:"queries";a:1:{s:7:"default";a:1:{i:1;a:5:{s:3:"sql";s:406:"SELECT t0.id_user AS id_user1, t0.nom_user AS nom_user2, t0.prenom_user AS prenom_user3, t0.adresse_user AS adresse_user4, t0.email_user AS email_user5, t0.tel_user AS tel_user6, t0.statut_user AS statut_user7, t0.login_user AS login_user8, t0.pwd_user AS pwd_user9, t0.sexe_user AS sexe_user10, t0.ban AS ban11, t0.photo_user AS photo_user12 FROM utilisateur t0 WHERE t0.login_user = ? AND t0.pwd_user = ?";s:6:"params";a:2:{i:0;s:10:"KAAAAAaa12";i:1;s:10:"KAAAAAaa12";}s:5:"types";a:2:{i:0;i:2;i:1;i:2;}s:11:"executionMS";d:0.0060000419616699219;s:11:"explainable";b:1;}}}s:11:"connections";a:1:{s:7:"default";s:32:"doctrine.dbal.default_connection";}s:8:"managers";a:1:{s:7:"default";s:35:"doctrine.orm.default_entity_manager";}s:8:"entities";a:1:{s:7:"default";a:1:{s:41:"Pidev\AllForDealBundle\Entity\Utilisateur";s:41:"Pidev\AllForDealBundle\Entity\Utilisateur";}}s:6:"errors";a:0:{}s:6:"caches";a:4:{s:7:"enabled";b:0;s:11:"log_enabled";b:0;s:6:"counts";a:3:{s:4:"puts";i:0;s:4:"hits";i:0;s:6:"misses";i:0;}s:7:"regions";a:3:{s:4:"puts";a:0:{}s:4:"hits";a:0:{}s:6:"misses";a:0:{}}}}}s:11:"swiftmailer";C:67:"Symfony\Bundle\SwiftmailerBundle\DataCollector\MessageDataCollector":77:{a:3:{s:6:"mailer";a:0:{}s:12:"messageCount";i:0;s:13:"defaultMailer";s:0:"";}}s:8:"security";C:65:"Symfony\Bundle\SecurityBundle\DataCollector\SecurityDataCollector":106:{a:5:{s:7:"enabled";b:1;s:13:"authenticated";b:0;s:11:"token_class";N;s:4:"user";s:0:"";s:5:"roles";a:0:{}}}s:4:"dump";C:60:"Symfony\Component\HttpKernel\DataCollector\DumpDataCollector":6:{a:0:{}}}s:2:"ip";s:3:"::1";s:6:"method";s:3:"GET";s:3:"url";s:108:"http://localhost/Esprit_3A5_ProjetPiDev/AllForDeal_Symfony2/web/app_dev.php/CompteUser/KAAAAAaa12,KAAAAAaa12";s:4:"time";i:1460985210;}

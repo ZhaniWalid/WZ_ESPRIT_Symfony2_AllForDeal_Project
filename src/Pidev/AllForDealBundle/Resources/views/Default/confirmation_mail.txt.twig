@@ -1,0 +1,6 @@
+{{ 'confirmation-email-message' | trans }}
+
+{{ 'activate-account' | trans }}:
+
+{{ url ('validate_mail_inscription',{ 'loginUser' : loginUser , 'confirm_code': confirm_code }) }}
+      

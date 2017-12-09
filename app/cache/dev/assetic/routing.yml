@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:\wamp64\www\ESPRIT_Projects\3A5\AllForDeal_Symfony2\app/config/routing_dev.yml'

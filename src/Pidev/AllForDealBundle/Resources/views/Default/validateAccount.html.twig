@@ -1,0 +1,26 @@
+
+  <div class="wrapper"> 
+      
+      <nav></nav>
+
+      <main>
+        <header></header>   
+
+        <article>
+
+          <section>
+            
+            <h2>{{ 'confirm-activation' | trans }}</h2>
+       
+            <p><a href="{{ path('validate_mail_inscription_complete', { 'loginUser' : loginUser,'confirm_code':confirm_code }) }}">Yes</a></p>
+
+          </section>       
+
+        </article>
+
+        <footer></footer> 
+      </main> 
+
+        
+      </div>
+    </div>

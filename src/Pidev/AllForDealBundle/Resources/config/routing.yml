@@ -1,0 +1,156 @@
+pidev_all_for_deal_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: PidevAllForDealBundle:Default:index }
+pidev_all_for_deal_home:
+    path:     /hello
+    defaults: { _controller: PidevAllForDealBundle:Acceuil:Hello }
+pidev_all_for_deal_homeUserConnected:
+    path:     /helloConnectedUser
+    defaults: { _controller: PidevAllForDealBundle:LoginUser:HomeUserConnected }
+pidev_all_for_deal_logoutUser:
+    path:     /helloApresLogoutUser 
+    defaults: { _controller: PidevAllForDealBundle:LoginUser:logoutUser }
+pidev_all_for_deal_InscriptionUser:
+    path:     /Inscription
+    defaults: { _controller: PidevAllForDealBundle:InscriptionUser:Inscription }    
+pidev_all_for_deal_LoginUser:
+    path:     /Login
+    defaults: { _controller: PidevAllForDealBundle:LoginUser:ConnectRecherche }    
+pidev_all_for_deal_AfterLogin:
+    path:     /AfterLogin
+    defaults: { _controller: PidevAllForDealBundle:LoginUser:afterLogin } 
+pidev_all_for_deal_AccesCompteUser:
+    path:     /CompteUser/{login},{pwd}
+    defaults: { _controller: PidevAllForDealBundle:LoginUser:VersCompteUser } 
+pidev_all_for_deal_AccesCompteUserTest:
+    path:     /CompteUser
+    defaults: { _controller: PidevAllForDealBundle:LoginUser:VersCompteUser2 } 
+pidev_all_for_deal_RedirectToCompteUserAfterBeingConnected:
+    path:     /CompteUserAfterConnect
+    defaults: { _controller: PidevAllForDealBundle:LoginUser:VersCompteUserAfterConnect }
+pidev_all_for_deal_UpdateUserCompte:
+    path:     /UpdateCompteUser/{id}
+    defaults: { _controller: PidevAllForDealBundle:LoginUser:UserUpdateCompte } 
+pidev_all_for_deal_UserContactUs:
+    path:     /ContactUs
+    defaults: { _controller: PidevAllForDealBundle:MailerUser:UserContactUs } 
+pidev_all_for_deal_ConnectedUserContactUs:
+    path:     /ContactUsUserConnected
+    defaults: { _controller: PidevAllForDealBundle:MailerUser:ConnectedUserContactUs } 
+pidev_all_for_deal_ActionContact:
+    path:     /actionContact
+    defaults: { _controller: PidevAllForDealBundle:MailerUser:contact } 
+pidev_all_for_deal_ActionContactUserNonConnected:
+    path:     /ContactActionUserNonConnected
+    defaults: { _controller: PidevAllForDealBundle:MailerUser:contactUsUserNonConnected } 
+#pidev_all_for_deal_AccesCompteUser:
+    #path:     /CompteUser
+    #defaults: { _controller: PidevAllForDealBundle:LoginUser:UpdateCompte } 
+pidev_all_for_deal_LoginAdmin:
+    path:     /loginAdmin
+    defaults: { _controller: PidevAllForDealBundle:Admin:AcceuiLoginAdmin } 
+pidev_all_for_deal_LogoutAdmin2:
+    path:     /loginAdmin2
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:logoutAdmin } 
+pidev_all_for_deal_EspaceAdmin:
+    path:     /EspaceAdmin
+    defaults: { _controller: PidevAllForDealBundle:Admin:ApresLoginEspaceAmdin }
+pidev_all_for_deal_EspaceAdmin2:
+    path:     /EspaceAdmin2
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:ApresLoginEspaceAmdin }
+pidev_all_for_deal_EspaceAdminAllListUser:
+    path:     /AllListUsers
+    defaults: { _controller: PidevAllForDealBundle:Admin:ListUsersAll }
+pidev_all_for_deal_EspaceAdminAllListUser2:
+    path:     /AllListUsers2
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:ListUsersAll }
+pidev_all_for_deal_EditableEspaceAdminAllListUser:
+    path:     /AllListUsersEditable
+    defaults: { _controller: PidevAllForDealBundle:Admin:ListEditableUsersAll }
+pidev_all_for_deal_EditableEspaceAdminAllListUser2:
+    path:     /AllListUsersEditable2
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:ListEditableUsersAll }
+pidev_all_for_deal_EspaceAdminAcceuil:
+    path:     /AcceuilAdminEspace
+    defaults: { _controller: PidevAllForDealBundle:Admin:AcceuilEspaceAdmin }
+pidev_all_for_deal_EspaceAdminAcceuil2:
+    path:     /AcceuilAdminEspace2
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:AcceuilEspaceAdmin }
+pidev_all_for_deal_EspaceAdminDeleteUser:
+    path: /SupprimerUser/{id}
+    defaults: { _controller: PidevAllForDealBundle:Admin:SupprimerUser }
+pidev_all_for_deal_EspaceAdminDeleteUser2:
+    path: /SupprimerUser2/{id}
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:SupprimerUser }
+pidev_all_for_deal_EspaceAdminViewProfileUser:
+    path: /ViewProfileUser/{id}
+    defaults: { _controller: PidevAllForDealBundle:Admin:AdminProfilUser }
+pidev_all_for_deal_EspaceAdminViewProfileUser2:
+    path: /ViewProfileUser2/{id}
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:AdminProfilUser }
+pidev_all_for_deal_EspaceAdminBloquerUser:
+    path: /BloquerUser/{id}
+    defaults: { _controller: PidevAllForDealBundle:Admin:BloquerUser }
+pidev_all_for_deal_EspaceAdminBloquerUser2:
+    path: /BloquerUser2/{id}
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:BloquerUser }
+pidev_all_for_deal_EspaceAdminDebloquerUser:
+    path: /DebloquerUser/{id}
+    defaults: { _controller: PidevAllForDealBundle:Admin:DebloquerUser }
+pidev_all_for_deal_EspaceAdminDebloquerUser2:
+    path: /DebloquerUser2/{id}
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:DebloquerUser }
+pidev_all_for_deal_EspaceAdminListeUsersBloques:
+    path: /ListeUsersBloques
+    defaults: { _controller: PidevAllForDealBundle:Admin:listeUserBloques }
+pidev_all_for_deal_EspaceAdminListeUsersBloques2:
+    path: /ListeUsersBloques2
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:listeUserBloques }
+pidev_all_for_deal_AccesAdminCompte:
+    path: /CompteAdmin/{login},{pwd}
+    defaults: { _controller: PidevAllForDealBundle:Admin:AdminProfile }
+pidev_all_for_deal_AccesAdminCompte2:
+    path: /CompteAdmin2/{login},{pwd}
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:AdminProfile }
+pidev_all_for_deal_AccesAdminCompteTest2:
+    path: /CompteAdmin2
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:AdminProfile2 }
+pidev_all_for_deal_UpdateCompteAdmin:
+    path: /UpdateAdminCompte/{id}
+    defaults: { _controller: PidevAllForDealBundle:Admin:AdminUpdateCompte }
+pidev_all_for_deal_UpdateCompteAdmin2:
+    path: /UpdateAdminCompte2/{id}
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:AdminUpdateCompte }
+pidev_all_for_deal_Admin2SearchAllUsers:
+    path: /userSearching
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:DynamicSearchAllListUsers }
+    requirements:
+      _method: GET
+pidev_all_for_deal_Admin2SearchAllEditableUsers: 
+    path: /userSearchingEdit
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:DynamicSearchAllListEditableUsers }
+    requirements:
+      _method: GET
+pidev_all_for_deal_Admin2SearchAllBlockedUsers: 
+    path: /userSearchingBlocked
+    defaults: { _controller: PidevAllForDealBundle:AdminNew:DynamicListBlockedUsers }
+    requirements:
+      _method: GET
+usn_newsletter_subscribe:
+    pattern:  /newsletter/subscribe
+    defaults: { _controller: UsnNewsletterBundle:Default:subscribe }
+usn_newsletter_complete:
+    pattern:  /newsletter/complete
+    defaults: { _controller: UsnNewsletterBundle:Default:complete }
+usn_newsletter_unsubscribe:
+    path:     /newsletter/unsubscribe/{access_key}
+    defaults: { _controller: UsnNewsletterBundle:Default:unsubscribe }
+usn_newsletter_unsubscribe_complete:
+    path:     /newsletter/unsubscribe_complete/{access_key}
+    defaults: { _controller: UsnNewsletterBundle:Default:unsubscribeComplete }
+validate_mail_inscription: 
+    path:     /activateMail/{loginUser},{confirm_code}
+    defaults: { _controller: PidevAllForDealBundle:InscriptionUser:activateAccount }
+validate_mail_inscription_complete:
+    path:     /activateMail_complete/{loginUser},{confirm_code}
+    defaults: { _controller: PidevAllForDealBundle:InscriptionUser:activationAccountComplete }

@@ -1,0 +1,37 @@
+{% extends "PidevAllForDealBundle:Acceuil:Acceuil.html.twig" %}
+{% block fless %}  
+       	<li><a href="{{ path("pidev_all_for_deal_logoutUser") }}" class="btn btn-default btn-default_2 pull-right" data-toggle="modal">Logout</a></li>     
+ {% endblock %} 
+{% block tabs %}
+ <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+        <ul class="nav navbar-nav nav_1">
+            {% block home %}
+            <li class="current_page"><a href="{{ path("pidev_all_for_deal_homeUserConnected") }}">Home</a></li>
+            {% endblock %}
+           <!-- <li><a href="about.html">About</a></li>
+    		<li><a href="classified.html">Classified Ads</a></li>
+			<li><a href="classified_database.html">Database</a></li>!-->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mes Données<span class="caret"></span></a>
+              <ul class="dropdown-menu drop_menu" role="menu">
+                <li><a href="{{ path("pidev_all_for_deal_AccesCompteUserTest")}}">Mon Compte Personnelle</a></li>
+               <!-- <li><a href="faq.html">Faq</a></li>
+                <li><a href="career.html">Career</a></li>
+                <li><a href="terms.html">Terms of use</a></li>
+                <li><a href="sitemap.html">Sitemap</a></li>
+                <li><a href="testimonials.html">Testimonials</a></li>
+                <li><a href="grids.html">Grids</a></li> !-->
+              </ul>
+            </li>
+            <li><a href="news.html">News</a></li>
+            <li><a href="{{ path("pidev_all_for_deal_ConnectedUserContactUs") }}">Contact Us</a></li>
+          <!--  <li><a href="article.html">Articles</a></li>
+            <li><a href="forum.html">Forum</a></li>
+            <li><a href="videos.html">Video</a></li>
+            <li><a href="advertise.html">Advertising</a></li>   !-->     
+
+          
+     
+ {% endblock %}
+ 
+ 

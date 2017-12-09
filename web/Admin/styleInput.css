@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 avr. 2016, 15:33:29
+    Author     : Edzio
+*/
+
+.section {
+	position: relative;
+    margin-bottom: 22px;
+}
+.section input[type="text"], .section input[type="password"], .input-sm{
+    position: relative;
+    vertical-align: top;
+    border: 1px solid #DDD;
+    display: -moz-inline-stack;
+    display: inline-block;
+    color: #626262;
+    outline: none;
+    height: 42px;
+    width: 100%;
+    padding-left: 40px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+.section input[type="submit"], .btn-success1 {
+    font-size: 14px;
+    font-weight: 300 !important;
+    color: #000;
+    cursor: pointer;
+    outline: none;
+    padding:8px 15px;
+    width:50%;
+    margin:0 auto;
+    border: none;
+    background:#F3DB28;
+    text-transform: uppercase;
+    border: 4px double #F3DB28;
+}
+.section input[type="submit"]:hover, .btn-success1:hover{
+	background:rgba(243, 219, 40, 0);
+}
+.submit {
+    text-align: center;
+}
+.section input[type="reset"], .btn-success1 {
+    font-size: 14px;
+    font-weight: 300 !important;
+    color: #000;
+    cursor: pointer;
+    outline: none;
+    padding:8px 15px;
+    width:50%;
+    margin:0 auto;
+    border: none;
+    background:#F3DB28;
+    text-transform: uppercase;
+    border: 4px double #F3DB28;
+}
+.section input[type="reset"]:hover, .btn-success1:hover{
+	background:rgba(243, 219, 40, 0);
+}
+.submit {
+    text-align: center;
+}
+label.field.prepend-icon {
+    width: 100%;
+}
+.field-icon {
+    top: 0;
+    z-index: 4;
+    width: 42px;
+    height: 42px;
+    color: inherit;
+    line-height: 42px;
+    position: absolute;
+    text-align: center;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -ms-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+    pointer-events: none;
+    color:#56CFCA;
+    font-size:15px;
+    left:0px;
+}

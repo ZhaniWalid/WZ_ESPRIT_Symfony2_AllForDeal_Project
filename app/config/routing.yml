@@ -1,0 +1,10 @@
+pidev_all_for_deal:
+    resource: "@PidevAllForDealBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: @AppBundle/Controller/
+    type:     annotation
+    
+usn_newsletter:
+    resource: "@UsnNewsletterBundle/Resources/config/routing.yml"
